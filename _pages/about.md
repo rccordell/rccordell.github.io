@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_5914-small.jpg
+  image: neu_m043q3515-master.jpg
   address: >
     <hr>
     <p style="text-align:center"><a href="https://cv.ryancordell.org/">my c.v.</a> | <a href="/blog/">my blog</a></p>
