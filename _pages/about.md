@@ -9,8 +9,7 @@ profile:
   image: IMG_5914-small.jpg
   address: >
     <hr>
-    <p style="text-align:center"><a href="https://cv.ryancordell.org/">my c.v.</a></p>
-    <p style="text-align:center"><a href="/blog/">my blog</a></p>
+    <p style="text-align:center"><a href="https://cv.ryancordell.org/">my c.v.</a> | <a href="/blog/">my blog</a></p>
     <hr>
 
 news: false  # includes a list of news items
