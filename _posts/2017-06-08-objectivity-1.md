@@ -1,0 +1,53 @@
+---
+layout: post
+title: Objectivity and Distant Reading
+date:   2017-06-08
+description: 
+tags: 
+categories: 
+permalink: /research/objectivity-1/
+---
+
+## Preamble
+
+Recently I was in my colleague Ben Schmidt's office and spotted a weighty tome I'd not seen before: [*Objectivity* by Lorraine Daston and Peter Galison](http://amzn.to/2sFpVjX). Ben told me that the book has been the focus of much discussion in history of science circles over the past few years. History of science is not a field I'm well versed in, though I've been dipping into its literature recently, and so I ordered a copy of *Objectivity* and began (slowly, as other work allows) reading. Almost immediately upon beginning the book I began recommending it to colleagues and graduate students, so much so that a group of us decided it would make sense to start a summer reading group around it rather than all approaching the book independently. As we read and that group meets, I plan to document some of my thoughts about the book here, in large part because the book seems to be mostly unknown within DH scholarship. I recently asked NU Ph.D. student [Gregory Palermo](https://palermog.github.io/) to help me determine how often the book has been cited in *DHQ*, for instance, and he found precisely one citation.  
+
+I was drawn to read *Objectivity* as part of my growing interest, following the work of scholars such as [Lauren Klein](http://lklein.com/category/data-visualization/) or [Jacqueline Wernimont](https://jwernimont.com/quantified-lives-a-history-of-the-media-of-measure/), in pre-histories of computing: around ideas of information, data, programming, quantification, or visualization. I am drawn to such work because I believe deep historicization can help build a more robust and integrative digital humanities. In such a DH computation—and in this post that word is, admittedly, doing too much work, but—in such a DH computation would not be simply a powerful modern tool applied to the past *or*, equally simply, an impoverished neoliberal framework incommensurate with the nuances of the past. Instead, computation would be both subject and methodology, both *of history* and capable of dialogue *with history*. More robust historical contextualization can, I believe, assist on [all sides of the DH debates](https://tedunderwood.com/2017/03/30/digital-humanities-as-a-semi-normal-thing/), mitigating both the millennial and apocalyptic rhetoric swirling around the field. <!--more-->
+
+
+
+## Images and Objectivity
+
+*Objectivity* attempts to trace the emergence of scientific objectivity as a concept, ideal, and moral framework for researchers during the nineteenth century. In particular, the book focuses on shifting ideas about scientific images during the period.  In the eighteenth and early nineteenth centuries, Daston and Galison argue, the scientific ideal was "truth-to-nature," in which particular examples are primarily useful for the ways in which they reflect and help construct an ideal type: not *this leaf*, specifically, but *this type of leaf*. Under this regime scientific illustrations did not attempt to reconstruct individual, imperfect specimens, but instead to generalize from specimens and portray a perfect type.
+
+*Objectivity* shows how, as the nineteenth century progressed and new image technologies such as photography shifted the possibilities for scientific imagery, truth-to-nature fell out of favor, while objectivity rose to prominence. There's much to unpack in Daston and Galison's description of this objectivity (and how it contrasts with earlier uses of that same word), but in this post I want to focus on what they call "mechanical objectivity," which arises with new scientific tools and inheres in their ideas about those tools. I think there's a salient point embedded here that might help us think through how recent computational research in the humanities has been discussed, and particularly in how an ideas about objectivity complicate those discussions, either explicitly or implicitly. 
+
+Consider Daston and Galison's description of the virtues of nineteenth century machines, which I will quote at some length:
+
+> [I]t was a nineteenth-century commmonplace that machines were paragons of certain human virtues. Cief among these were those associated with work: patient, indefatigable, ever-alert machiens would relieve human workers whose attention wandered, whose pace slackened, whose hand trembled...In addition to the sheer industriousness of machines, there was more: levers and gears did not succumb to temptation...the fact that machines had no choice but to be virtuous struck scientists distrustful of their own powers of self-discipline as a distinct advantage. Instead of freedom of will, machines offered freedom from will—from willful interventions that had come to be seen as the most dangerous aspects of subjectivity (123).  
+
+In debates about the virtues of illustration versus photography, for instance, illustration was touted as superior to the relative primitivism of photography—technologies such as drawing and engraving simply allowed finer detail than blurry nineteenth century photography could. Nevertheless photography increasingly dominated scientific images because it was seen as less susceptible to manipulation, less dependent on the imagination of the artist (or, indeed, of the scientist). 
+
+> It is this internal struggle to control the will that imparted to mechanical objectivity its high moral tone...One type of mechanical image, the photograph, became the emblem for all aspects of noninterventionist objectivity...This was not because the photograph was more obviously faithful to nature than handmade images—many paintings bore a closer resemblance to their subject matter than early photographs, if only because they used color—but because the camera apparently eliminated human agency. (187)
+
+For scientists increasingly worried that their own stubborn wills would sully the truth of their findings, mechanical means of image production offered a way out. There are echoes here of original sin, a seeking for a tool that can circumvent human fallenness. 
+
+## Objectivity and Distant Reading
+
+I want to ask whether there is a version of this objectivity moral lurking in discussions of computation in the humanities, even when particular works disclaim objectivity as their goal. Consider Moretti in the article that coined the "distant reading" term:
+
+> the trouble with close reading (in all of its incarnations, from the new criticism to deconstruction) is that it necessarily depends on an extremely small canon. This may have become an unconscious and invisible premiss by now, but it is an iron one nonetheless: you invest so much in individual texts only if you think that very few of them really matter...At bottom, it’s a theological exercise—very solemn treatment of very few texts taken very seriously—whereas what we really need is a little pact with the devil: we know how to read texts, now let’s learn how *not* to read them. Distant reading: where distance, let me repeat it, *is a condition of knowledge*: it allows you to focus on units that are much smaller or much larger than the text: devices, themes, tropes—or genres and systems.
+
+In this article and much of the related literature, computation is invoked as a solution to problems of will that are quite familiar from decades of humanistic scholarship. We all know that the canon of English literature was shaped as much by the identities of its gatekeepers as by the inherent virtues of the books it includes. Feminist, postcolonial, and other theoretical schools have taught us that our biases limit our critical horizons and result in atrophied canons that do not adequately represent human identities or literatures. 
+
+We might argue that methods such as distant reading or macroanalysis seek to bypass the human will that constructed such canons through a kind of mechanical objectivity. While human beings choose what to focus on for all kinds of reasons, many of them suspect, the computer will look for patterns unencumbered any of those reasons. The machine is less susceptible to the social, political, or identity manipulations of canon formation. There's much to say about the role of the machine in this formulation, and the human beings that write its programs—both of which perhaps I'll discuss in future posts. And I'm neither claiming that this ethics of objectivity *is* objective nor that it would be desirable for it to be so. 
+
+My aims here are more modest: simply to posit a rhetorical undertone informing discussions of computational humanities work. 
+
+I can point to my own writing about [Viral Texts](http://viraltexts.org), in fact, as in my article [in American Literary History](http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/):
+
+>The blinders of search access prove surprisingly crippling because they tend to reinforce existing suppositions—on, say, the dominance of a text that is canonical today—while leaving undiscovered more popular texts that might reveal precisely what we have failed to understand about popular opinion, readings habits, and public debate in the period...Repetition—and circulation is a kind of textual repetition with a difference—is a salient pattern that the digitized archive makes more readily discernible. If the primary challenge facing scholars interested in nineteenth-century reprinting is that the newspapers and magazines are “unindexed,” then an algorithm can help build indices useful for approaching these materials.
+
+We might mark a tension in such formulations: while the problem of will motivating such studies often stems from thoroughly humanistic convictions, perhaps the appeal to mechanization (or automation or computation) necessarily invokes an ethics of objectivity. In my own case, I likely would have disclaimed objectivity as my ideal or objective—and still would—but perhaps at some level I must acknowledge its echoes. My aim here is not to disparage computational research—far from it. I do believe that the kind of pattern recognition we take up in Viral Texts, for instance, helps us expand our critical purview well outside the typical canon of nineteenth century literary study, and that such expansion is a generative and salutary outcome. 
+
+I would suggest, however, that understanding how computational criticism implicitly evokes objectivity even without explicitly claiming objectivity might help us advance conversations rather than talk past each other. I will certainly have more to say on this subject as our group reading of *Objectivity* continues through this summer. 
