@@ -1,8 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
+redirect: https://cv.ryancordell.org/
 title: cv
+description: My academic cv
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
 ---
+

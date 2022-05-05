@@ -5,9 +5,12 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: CV
+      permalink: http://cv.ryancordell.org/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Viral Texts Project
+      permalink: http://viraltexts.org/
+    - title: divider
+    - title: Viral Texts Project
+      permalink: http://viraltexts.org/
 ---
