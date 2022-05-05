@@ -8,9 +8,7 @@ profile:
   align: right
   image: IMG_5914-small.jpg
   address: >
-    <p>Room 5147</p>
-    <p>614 E. Daniel St.</p>
-    <p>Champaign, IL 61820</p>
+    <hr>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
