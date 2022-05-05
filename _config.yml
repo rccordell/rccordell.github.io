@@ -8,7 +8,7 @@ middle_name: C.
 last_name: Cordell
 email: rccordell@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A professional blog and CV site.
+  Book history, digital humanities, old newspapers, and information sciences
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
