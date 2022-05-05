@@ -10,7 +10,7 @@ profile:
   address: >
     <hr>
     <p style="text-align:center"><a href="https://cv.ryancordell.org/">my c.v.</a></p>
-    <p style="text-align:center"><a href="/blog/">programmable type blog</a></p>
+    <p style="text-align:center"><a href="/blog/">my blog</a></p>
     <hr>
 
 news: false  # includes a list of news items
