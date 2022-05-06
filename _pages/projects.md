@@ -8,6 +8,10 @@ display_categories: [DH, BH, ML]
 horizontal: false
 ---
 
+The categories of my projects overlap in many ways—research & teaching, public & scholarly, digital & analog—but I've divided them here, roughly, by DH (digital humanities), BH (book history & bibliography), and ML (machine learning & AI). 
+
+---
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
