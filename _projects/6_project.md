@@ -5,5 +5,5 @@ description: Mapping the Histories and Data of Digitised Newspaper Collections A
 img: 
 redirect: https://www.digitisednewspapers.net/
 importance: 4
-category: work
+category: DH
 ---

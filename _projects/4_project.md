@@ -5,5 +5,5 @@ description: A Research Agenda for Historical and Multilingual Optical Character
 img: assets/img/playbills_ocr-1.jpg
 redirect: https://ocr.northeastern.edu/
 importance: 2
-category: work
+category: DH
 ---

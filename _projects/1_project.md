@@ -5,5 +5,5 @@ description: Mapping Networks of Reprinting in 19th-Century Newspapers and Magaz
 img: assets/img/Barter-Chickens_for_Subscription.jpg
 redirect: https://viraltexts.org
 importance: 1
-category: work
+category: DH
 ---

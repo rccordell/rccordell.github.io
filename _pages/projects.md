@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Links to my research projects.
 nav: true
-display_categories: [work]
+display_categories: [DH, BH]
 horizontal: false
 ---
 

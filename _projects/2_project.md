@@ -5,5 +5,5 @@ description: Tracing Global Information Networks In Historical Newspaper Reposit
 img: assets/img/HMS-AGAMEMNON.jpg
 redirect: https:/oceanicexchanges.org
 importance: 3
-category: work
+category: DH
 ---
