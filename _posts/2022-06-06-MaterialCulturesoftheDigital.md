@@ -1,5 +1,5 @@
 ---
-title: "\'Material Cultures of the Digital\' Published in _Cambridge Handbook of Material Culture Studies_"
+title: "Material Cultures of the Digital published in _Cambridge Handbook of Material Culture Studies_"
 date: 2022-06-06
 author: Ryan Cordell
 permalink: /research/materialdigital/
