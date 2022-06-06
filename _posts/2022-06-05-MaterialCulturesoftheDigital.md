@@ -38,7 +38,9 @@ Nevertheless, we often talk of the newly ubiquitous "apparatus" of the digital a
 
 [^datacenterknowledge2017]: Google Data Center FAQ.” Data Center Knowledge (16 March 2017). <https://bit.ly/3pHZPvj>.
 
-![A server room at CERN; Creative Commons image via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d7/CERN_Server_03.jpg)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/CERN_Server_03.jpg" alt="A server room at CERN" style="width:800px">
+
+_Caption: A server room at CERN; Creative Commons image [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CERN_Server_03.jpg)_
 
 We are faced with a strange and hazardous irony in the digital age: surrounded by a rapidly-proliferating domain of objects, increasingly central to our social, economic, and political lives, we fall back on a strange dichotomy of "digital" versus "analog," eliding a the much more complex and interesting ways these two modes entwine and interact. Popular attitudes toward the digital vary widely and are often highly contradictory. Digital content is both unreliably ephemeral and stubbornly eternal; hyperlinks go dead rapidly, and thus cannot suffice as scholarly references, while embarrassing photos posted to social media in high school will surely derail presidential campaigns decades hence. Such contradictions arise in part due to the novel materiality of digital media, which is both widely distributed (i.e. pervasive) and rapidly iterative (i.e. impermanent). For scholars of material culture, the digital represents the fastest-growing domain of material culture in the late twentieth and early twenty-first centuries, both in terms of its literal materials and its broader cultural effects. Understanding and theorizing the material culture of the digital is thus one of the field's most pressing mandates. 
 
