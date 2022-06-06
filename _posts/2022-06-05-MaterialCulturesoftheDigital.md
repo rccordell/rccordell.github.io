@@ -1,6 +1,6 @@
 ---
 title: "New Article: Material Cultures of the Digital"
-date: 2022-06-06
+date: 2022-06-05
 author: Ryan Cordell
 permalink: /research/materialdigital/
 layout: post
