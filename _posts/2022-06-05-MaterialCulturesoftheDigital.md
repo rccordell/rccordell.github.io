@@ -131,8 +131,8 @@ As Jussi Parikka reminds us, we cannot separate the myriad objects of the digita
 > **Palladium** (PGM) Catalysts, seawater desalination  
 > **Niobium** Micro capacitors, ferroalloys  
 > **Neodymium** Permanent magnets, laser technology[^parikka2012]
- 
-[^parikka2012]: Jussi Parikka, “Turf Instead of Turf Wars | Machinology,” _Machinology_ (30 August 2012). <https://jussiparikka.net/2012/08/30/turf-instead-of-turf-wars/>.
+
+[^parikka2012]: Jussi Parikka, “Turf Instead of Turf Wars,” _Machinology_ (30 August 2012). <https://jussiparikka.net/2012/08/30/turf-instead-of-turf-wars/>.
 
 While it may seem obvious that computer hardware is material, common metaphors such as "the cloud" obscure the gritty realities of cobalt, tantalum, and niobium, and the human labor required to extract these materials from the ground. Creating, running, and maintaining our digital infrastructure takes a substantial environmental toll. 
 
