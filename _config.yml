@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Email and Twitter are the fastest ways to reach me.
+  Email is the fastest ways to reach me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -102,7 +102,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: programmable type  # your blog must have a name for it to show up in the nav bar
-blog_description: thoughts on book history, bibliography, and digital humanities
+blog_description: thoughts on book history, bibliography, information arts, and digital humanities
 permalink: /blog/:year/:title/
 
 # Pagination
