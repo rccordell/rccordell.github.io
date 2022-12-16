@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor in the [School of Information Sciences](https://ischool.illinois.edu/) and [Department of English](https://english.illinois.edu/) at the University of Illinois Urbana-Champaign. I am currently in the process of building an experiential book arts studio in the iSchool's [Champaign-Urbana Community FabLab](http://cucfablab.org/). 
+I am an Associate Professor in the [School of Information Sciences](https://ischool.illinois.edu/) and [Department of English](https://english.illinois.edu/) at the University of Illinois Urbana-Champaign. I also direct [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), an experiential studio for teaching information arts that is housed in the [Champaign-Urbana Community FabLab](http://cucfablab.org/). 
 
 ### Themes of My Work
 
