@@ -22,4 +22,4 @@ The past decade has been characterized by increasingly anxious conversations abo
 
 Instead, I would suggest that the *modes* we teach students for using the skills they cultivate in graduate school remain cloistered in ways that mitigate against students using those skills across domains. Most graduate students are not learning how to organize projects comprising team members who come from diverse domains, who bring diverse skills. They are not learning what fair collaboration looks like in practice. They are not learning one important outcome of cross-field collaboration we discuss less often as an explicit goal: how to articulate your goals and vision for a project to partners who bring distinct goals and visions, and identify the intersections. DH has been an exception here. Perhaps more than the technical skills DH students learn, they are more likely to learn how to translate their intellectual work and see its value in contexts beyond their own minds. 
 
-Collaboration isn't just a thing in DH; collaboration is THE thing.
+Collaboration isn't just a thing in DH. Collaboration is THE thing.
