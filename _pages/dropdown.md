@@ -8,9 +8,6 @@ children:
     - title: CV
       permalink: http://cv.ryancordell.org/
     - title: divider
-    - title: Programmable Type Blog
-    - permalink: https://ryancordell.org/blog/
-    - title: divider
     - title: Dossier Statements
       permalink: /statements/
     - title: divider
