@@ -16,4 +16,5 @@ children:
     - title: divider
     - title: Values-Forward Praxis
       permalink: https://valuesforwardpraxis.github.io/
+    - title: <a rel="me" href="https://hcommons.social/@ryancordell">Mastodon</a>
 ---
