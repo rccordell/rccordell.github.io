@@ -13,7 +13,7 @@ I teach both graduate and undergraduate courses in the School of Information Sci
 
 ### University of Illinois Urbana-Champaign
 
-+ Book Lab—Print to Programming: [Spring 2022](https://s22bl.ryancordell.org/)
++ Book Lab—Print to Programming: [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
 
 ### Northeastern University
 
@@ -27,6 +27,7 @@ I teach both graduate and undergraduate courses in the School of Information Sci
 
 ### University of Illinois Urbana-Champaign
 
++ Building a (Better) Book: [Spring 2023](https://s23bbb.ryancordell.org/)
 + Reading and Writing Data: [Fall 2022](https://canvas.illinois.edu/courses/21941)
 
 #### Northeastern University
