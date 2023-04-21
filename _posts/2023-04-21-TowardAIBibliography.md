@@ -1,6 +1,6 @@
 ---
 title: "Towards a Bibliography for AI Systems"
-date: 2022-11-12
+date: 2023-04-21
 author: Ryan Cordell
 permalink: /research/aibibliography/
 layout: post
