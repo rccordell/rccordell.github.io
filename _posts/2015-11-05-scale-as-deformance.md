@@ -5,7 +5,7 @@ date:   2015-11-05
 description: 
 tags: 
 categories: 
-permalink: /research/scale-as-deformance/---
+permalink: /research/scale-as-deformance/
 ---
 
 <p>When I was ten years old my parents bought me a microscope set for Christmas. I spent the next weeks eagerly testing everything I could under its lens, beginning with the many samples provided in the box. I could not bring myself to apply the kit&#8217;s scalpel to the fully-preserved butterfly—which is intact still in the microscope box in my parents&#8217; attic—but soon I had exhausted all of the pre-made slides: sections of leaves, insect wings, crystalline minerals, scales from fish or lizard skin. The kit also included the supplies to create new slides. I wanted to see blood—my blood. And so with my mom&#8217;s help I pricked the tip of my finger with a very thin needle, so I could squeeze a single drop of blood onto the thin glass slide. I remember how it smeared as I applied the plastic coverslip to the top of the slide, and I remember the sense of wonder as I first saw my own blood through the microscope&#8217;s lens. Gone was the uniform red liquid, replaced by a bustling ecosystem of red and white cells, walls and enormous spaces where none had been when I was looking with my unaided eye. </p>
