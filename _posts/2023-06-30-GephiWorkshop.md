@@ -2,7 +2,7 @@
 title: "Visualizing Historical Networks with Gephi"
 date: 2023-06-30
 author: Ryan Cordell
-permalink: /teaching/GephiWorkshop
+permalink: /teaching/GephiWorkshop/
 layout: post
 ---
 
