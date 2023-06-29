@@ -1,10 +1,12 @@
 ---
 title: "Visualizing Historical Networks with Gephi"
-date: 2023-06-30
+date: 2023-06-29
 author: Ryan Cordell
 permalink: /teaching/GephiWorkshop/
 layout: post
 ---
+
+The following resources were prepared for a workshop at the Exploring Digital Humanities Conference, which will be held on 30 June 2023 at the Ames Library at Illinois Wesleyan University.
 
 ## Necessary Downloads
 
