@@ -14,8 +14,6 @@ children:
     - title: Viral Texts Project
       permalink: http://viraltexts.org/
     - title: divider
-    - title: Values-Forward Praxis
-      permalink: https://valuesforwardpraxis.github.io/
     - title: divider
-    - title: <a rel="me" href="https://hcommons.social/@ryancordell">Mastodon</a>
+    - title: <a rel="me" href="https://bsky.app/profile/ryancordell.bsky.social">BlueSky</a>
 ---
