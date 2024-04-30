@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Machine Learning Dataset Lifecycle
+title: The Virality of Racial Terror in US Newspapers, 1863-1921
 description: Coming soon!
 img: 
 importance: 4
-category: ML
+category: DH
 ---
