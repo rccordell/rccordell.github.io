@@ -14,6 +14,5 @@ children:
     - title: Viral Texts Project
       permalink: http://viraltexts.org/
     - title: divider
-    - title: divider
     - title: <a rel="me" href="https://bsky.app/profile/ryancordell.bsky.social">BlueSky</a>
 ---
