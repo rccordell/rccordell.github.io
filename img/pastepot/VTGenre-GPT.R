@@ -69,8 +69,8 @@ answers <- gptProcess(smallClusters[501:1000,], promptText)
 
 write_csv(answers, "./output/vt-genres-largeClusters.csv")
 
-answers <- answers %>%
-  mutate(answer = gsub("The genre of the provided text is best described as \"news.\"", "news", answer))
+# answers <- answers %>%
+#  mutate(answer = gsub("The genre of the provided text is best described as \"news.\"", "news", answer))
 
 answersToPlot <- answers %>%
   group_by(answer) %>%
