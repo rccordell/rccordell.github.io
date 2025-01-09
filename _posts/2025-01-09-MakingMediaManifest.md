@@ -14,7 +14,7 @@ At the 2011 MLA, Stephen Ramsay delivered a provocation in the “History and Fu
 
 > Do you have to know how to code? I’m a tenured professor of digital humanities and I say “yes”. 
 
-The way this line was excerpted and sound-bitten and outrage farmed still upsets me—even in this compressed form, if you read just the next few lines it's clear Ramsay was talking about how DH practice differed by program and institution. But I can't unpacking that history in the four minutes I have left.
+The way this line was excerpted and sound-bitten and outrage farmed still upsets me—even in this compressed form, if you read just the next few lines it's clear Ramsay was talking about how DH practice differed by program and institution. But I can't unpack that history in the four minutes I have left.
 
 Instead, I want to focus on [Ramsay's followup](https://search.credoreference.com/articles/Qm9va0FydGljbGU6MzM5MDMwMQ==?aid=107224), where he posited making as "a new kind of hermeneutic" common among the many strands of DH work, from coding to building digital editions to mapping to network analysis. Under this more capacious framework, one codes to inculcate richer engagement with software—not as a consumer only, but as a practitioner who understands the infrastructure and labor—both intellectual and technical—that enable software to function.
 
