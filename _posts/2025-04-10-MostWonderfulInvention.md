@@ -11,4 +11,3 @@ The following is my talk for the [Donald R. Benson Memorial Lecture](https://cea
 --- 
 
 
-[<img style="align: center; padding: 30px; width:100%" src="https://github.com/rccordell/rccordell.github.io/blob/master/img/invention/new-steam-compositor.jpg?raw=true">](https://github.com/rccordell/rccordell.github.io/blob/master/img/invention/new-steam-compositor.jpg)
