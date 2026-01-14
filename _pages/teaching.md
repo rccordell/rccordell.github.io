@@ -13,8 +13,8 @@ I teach both graduate and undergraduate courses in the School of Information Sci
 
 ### University of Illinois Urbana-Champaign
 
-+ Book Lab—Print to Programming: [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
-+ Introduction to Digital Humanities: [Fall 2024](https://f24idh.ryancordell.org)
++ Book Lab—Print to Programming: [Spring 2026](https://s26bl.ryancordell.org/), [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
++ Introduction to Digital Humanities: Fall 2025, [Fall 2024](https://f24idh.ryancordell.org)
 
 ### Northeastern University
 
@@ -28,6 +28,7 @@ I teach both graduate and undergraduate courses in the School of Information Sci
 
 ### University of Illinois Urbana-Champaign
 
++ Writing with Robots, [Fall 2025](https://canvas.illinois.edu/courses/60182)
 + Building a (Better) Book: [Spring 2025](https://s25bbb.ryancordell.org), [Spring 2023](https://s23bbb.ryancordell.org/)
 + Introduction to Fiction, Spring 2024
 + Reading and Writing Data: [Fall 2022](https://canvas.illinois.edu/courses/21941)
