@@ -1,8 +1,8 @@
 # Social media links for Ryan Cordell
 email: rccordell@gmail.com
 github_username: rccordell
-mastodon_username: ryancordell # your mastodon username without the leading @ (will link to hcommons.social)
-mastodon_server: hcommons.social # your mastodon server
-bluesky_username: ryancordell.bsky.social
+mastodon_username: ryancordell
+mastodon_server: hcommons.social
+bluesky_url: https://bsky.app/profile/ryancordell.bsky.social
 orcid_id: 0000-0002-4345-0533
 rss_icon: true
