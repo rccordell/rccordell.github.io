@@ -1264,6 +1264,13 @@ ninja.data = [{
           window.open("https://hcommons.social/@ryancordell", "_blank");
         },
       },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/ryancordell.bsky.social", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
