@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course websites and OA teaching materials.",
@@ -171,17 +164,6 @@ ninja.data = [{
             window.location.href = "/research/materialdigital/";
           
         },
-      },{id: "post-a-post-with-redirect",
-        
-          title: "a post with redirect",
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/assets/pdf/example_pdf.pdf";
-          
-        },
       },{id: "post-dependencies-as-a-framework-for-media-history-in-information-science",
         
           title: "Dependencies as a Framework for Media History in Information Science",
@@ -213,17 +195,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/research/why-iSchool/";
-          
-        },
-      },{id: "post-a-post-with-diagrams",
-        
-          title: "a post with diagrams",
-        
-        description: "an example of a blog post with diagrams",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/diagrams/";
           
         },
       },{id: "post-imagine-a-class-in-400-years",
