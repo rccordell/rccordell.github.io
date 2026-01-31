@@ -1,18 +1,13 @@
 ---
 layout: page
-title: links
+title: submenus
 nav: true
-nav_order: 6
+nav_order: 8
 dropdown: true
-children: 
-    - title: CV
-      permalink: http://cv.ryancordell.org/
-    - title: divider
-    - title: Dossier Statements
-      permalink: /statements/
-    - title: divider
-    - title: Viral Texts Project
-      permalink: http://viraltexts.org/
-    - title: divider
-    - title: <a rel="me" href="https://bsky.app/profile/ryancordell.bsky.social">BlueSky</a>
+children:
+  - title: bookshelf
+    permalink: /books/
+  - title: divider
+  - title: blog
+    permalink: /blog/
 ---

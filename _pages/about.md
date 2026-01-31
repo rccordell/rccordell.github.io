@@ -2,19 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: neu_m043q3515-master.jpg
-  address: >
+  image_circular: false
+  more_info: >
     <hr>
     <p style="text-align:center"><a href="https://cv.ryancordell.org/">my c.v.</a> | <a href="/blog/">my blog</a></p>
     <hr>
 
-news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false # includes a list of news items
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
 I am an Associate Professor in the [School of Information Sciences](https://ischool.illinois.edu/) and [Department of English](https://english.illinois.edu/) at the University of Illinois Urbana-Champaign. I also direct [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), an experiential studio for research and teaching in book and information arts that is housed in the [Champaign-Urbana Community FabLab](http://cucfablab.org/). 
