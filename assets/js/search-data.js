@@ -1257,6 +1257,13 @@ ninja.data = [{
           window.open("https://github.com/rccordell", "_blank");
         },
       },{
+        id: 'social-mastodon',
+        title: 'Mastodon',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://hcommons.social/@ryancordell", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
