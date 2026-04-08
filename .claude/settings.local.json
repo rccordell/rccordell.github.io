@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(git fetch:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git checkout:*)",
+      "Bash(bundle install:*)",
+      "Bash(ruby:*)",
+      "Bash(gem:*)",
+      "Bash(/opt/homebrew/bin/bundle:*)",
+      "Bash(bundle:*)",
+      "Bash(rbenv versions:*)",
+      "Bash(rvm list:*)",
+      "Bash(brew upgrade:*)",
+      "Bash(export PATH=\"/opt/homebrew/opt/ruby/bin:$PATH\")",
+      "Bash(export PATH=\"/opt/homebrew/opt/ruby/bin:/opt/homebrew/lib/ruby/gems/4.0.0/bin:$PATH\")",
+      "Bash(git grep:*)",
+      "Bash(find:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nMigrate to latest al-folio theme with personal content\n\n- Fresh start from upstream al-folio main branch\n- Migrated all personal content: 97 blog posts, pages, projects, bibliography\n- Updated _config.yml with personal settings \\(name, email, blog name, Scholar style\\)\n- Created _data/socials.yml for social media profiles\n- Preserved all images from img/ and assets/\n- Removed upstream sample posts and custom plugins incompatible with new theme\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(gh run list:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git remote set-url:*)",
+      "Bash(brew install:*)",
+      "Bash(gh pr create:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh workflow run:*)",
+      "Bash(gh run view:*)",
+      "Bash(grep:*)",
+      "Bash(git commit:*)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git merge fresh-alfolio -m \"$\\(cat <<''EOF''\nMigrate to latest al-folio theme\n\nFresh migration from upstream al-folio with all personal content preserved:\n- All 97 blog posts migrated\n- About, teaching, publications, statements pages updated\n- Projects and news items preserved\n- Bibliography and coauthors data migrated\n- Social links configured for Mastodon, Bluesky, GitHub, ORCID\n- Removed upstream sample posts to avoid broken references\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git pull:*)",
+      "Bash(ls:*)",
+      "Bash(xargs rm -rf)"
+    ]
+  }
+}
