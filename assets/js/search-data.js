@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-response-student-centered-ai-amp-dh-practices-roundtable",
+        },{id: "post-anemoia-ai-and-skeuomorphism-the-material-turn-in-digital-humanities",
+        
+          title: "Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/research/anemoia";
+          
+        },
+      },{id: "post-response-student-centered-ai-amp-dh-practices-roundtable",
         
           title: "Response: Student-Centered AI &amp; DH Practices Roundtable",
         
