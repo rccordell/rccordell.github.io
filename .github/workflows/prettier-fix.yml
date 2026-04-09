@@ -1,0 +1,26 @@
+name: Fix Prettier formatting
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Node.js ⚙️
+        uses: actions/setup-node@v4
+      - name: Install Prettier 💾
+        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+      - name: Run Prettier --write 🔧
+        run: npx prettier . --write
+      - name: Commit formatted files 💾
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Apply Prettier formatting fixes"
+          git push
