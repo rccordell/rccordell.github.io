@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Network Analysis Workshop
-date:   2016-05-19
-description: 
-tags: 
-categories: 
+date: 2016-05-19
+description:
+tags:
+categories:
 permalink: /teaching/network-analysis-workshop/
 ---
 
-
-I regularly run workshops on humanities network analysis. For participants, I've compiled some starting instructions, sample data files, and suggested reading below. 
+I regularly run workshops on humanities network analysis. For participants, I've compiled some starting instructions, sample data files, and suggested reading below.
 
 <h2>Recommended Reading</h2>
 <ul>
@@ -28,13 +27,13 @@ There are many options at various skill levels for humanists interested in netwo
 <li>You can also create basic network graphs using <a href="https://support.google.com/fusiontables/answer/2566732?hl=en" target="_blank">Fusion Tables</a>.</li> 
 <li>If you are running Windows with Microsoft Excel installed, <a href="https://nodexl.codeplex.com/" target="_blank">Node XL</a> aims to make generating network graphs from an Excel spreadsheet as easy as creating a pie chart. Unfortunately Node XL is incompatible with Mac versions of Excel.</li>
 <li>And of course, if you're comfortable with programming languages there are plenty of methods for generating network graphs by hand. Taylor Arnold and Lauren Tilton write about using R for network analysis in <a href="http://www.springer.com/us/book/9783319207018" target="_blank"><em>Humanities Data in R</em></a> and Lincoln Mullen has a growing resource in <a href="http://lincolnmullen.com/projects/dh-r/" target="_blank"><em>Digital History Methods in R</em></a>, including an in-progress <a href="http://lincolnmullen.com/projects/dh-r/networks.html" target="_blank">chapter on networks</a>.</li>
-</ul> 
+</ul>
 
 <h2>This Workshop: Gephi</h2>
 For this workshop, we will be using <a href="http://gephi.github.io/" target="_blank">Gephi</a>, one of the most widely-used tools for network analysis and visualization. You will need to <a href="http://gephi.github.io/users/download/" target="_blank">download and install</a> the application before we can get started. If you find it runs slowly (or not at all) you might need <a href="https://java.com/en/download/" target="_blank">to update Java</a> on your system.
 
 <h2>Workshop Data</h2>
-Sample data can be found in <a href="https://www.dropbox.com/sh/vov4yx855zjcjz3/AAD_oCHSVStfEZVvNoJ-eLYKa?dl=0">this folder</a>. You can <a href="https://www.dropbox.com/s/ju4zbmsi3bfb1n1/GephiWorkshopFiles.zip?dl=0">download them all as a zip file</a> or download files separately as we need them. 
+Sample data can be found in <a href="https://www.dropbox.com/sh/vov4yx855zjcjz3/AAD_oCHSVStfEZVvNoJ-eLYKa?dl=0">this folder</a>. You can <a href="https://www.dropbox.com/s/ju4zbmsi3bfb1n1/GephiWorkshopFiles.zip?dl=0">download them all as a zip file</a> or download files separately as we need them.
 
 <!--The packet includes:
 <ol>

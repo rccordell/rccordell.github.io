@@ -1,17 +1,16 @@
 ---
 layout: post
 title: DH, Interdisciplinarity, and Curricular Incursion
-date:   2012-02-20
-description: 
-tags: 
-categories: 
+date: 2012-02-20
+description:
+tags:
+categories:
 permalink: /teaching/dh-interdisciplinarity-and-curricular-incursion/
 ---
 
-<p>In last December's NITLE Digital Scholarship Seminar, <a href="http://www.nitle.org/live/events/129-teaching-dh-101-introduction-to-the-digital">Teaching DH 101</a>, I presented my experience designing and proposing a new digital humanities course at St. Norbert College. In that talk, I found myself arguing, somewhat to my surprise, for <del>inter</del>disciplinarity&mdash;by which I mean clear association with one of the humanities disciplines that converge under the digital humanities tent&mdash;in digital humanities courses. In short, I claimed that a digital humanities course grounded in a familiar academic discipline might stand better chance of being understood and approved by curricular committees and, frankly, students who are unlikely to have heard, much less understand, the term "digital humanities." I use the term <del>inter</del>disciplinary with a strikethrough not to disavow the cross-field collaborations that underlie and energize digital humanities work, but to highlight the idea that interdisciplinary work, by definition, requires collaborators from distinct disciplines.</p> 
+<p>In last December's NITLE Digital Scholarship Seminar, <a href="http://www.nitle.org/live/events/129-teaching-dh-101-introduction-to-the-digital">Teaching DH 101</a>, I presented my experience designing and proposing a new digital humanities course at St. Norbert College. In that talk, I found myself arguing, somewhat to my surprise, for <del>inter</del>disciplinarity&mdash;by which I mean clear association with one of the humanities disciplines that converge under the digital humanities tent&mdash;in digital humanities courses. In short, I claimed that a digital humanities course grounded in a familiar academic discipline might stand better chance of being understood and approved by curricular committees and, frankly, students who are unlikely to have heard, much less understand, the term "digital humanities." I use the term <del>inter</del>disciplinary with a strikethrough not to disavow the cross-field collaborations that underlie and energize digital humanities work, but to highlight the idea that interdisciplinary work, by definition, requires collaborators from distinct disciplines.</p>
 
 <!--more-->
-
 
 <p>In his contribution to <a href="http://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities"><em>Debates in the Digital Humanities</em></a>, Matt Kirschenbaum calls digital humanities a "tactical term" that can help DHers position themselves for institutional authorization of various sorts:
 <blockquote>On the one hand, then, digital humanities is a term possessed of enough currency and escape velocity to penetrate layers of administrative strata to get funds allocated, initiatives under way, and plans set in motion. On the other hand, it is a populist term, self-identified and self-perpetuating through the algorithmic structures of contemporary social media.</blockquote>

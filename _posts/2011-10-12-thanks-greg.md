@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Thanks, Greg.
-date:   2011-10-12
-description: 
-tags: 
-categories: 
+title: Thanks, Greg.
+date: 2011-10-12
+description:
+tags:
+categories:
 permalink: /personal/thanks-greg/
 ---
 

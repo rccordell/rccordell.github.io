@@ -1,18 +1,16 @@
 ---
 layout: post
 title: What Has the Digital Meant to American Periodicals Scholarship?
-date:   2016-03-31
-description: 
-tags: 
-categories: 
+date: 2016-03-31
+description:
+tags:
+categories:
 permalink: /research/what-has-the-digital-meant-to-american-periodicals-scholarship/
 ---
 
 <p><strong>Note: this is a peer reviewed, uncopyedited post-print of an article that appears in <em>American Periodicals</em> 26.1 (2016), which is now available at <a href="http://muse.jhu.edu/journals/american_periodicals/toc/amp.26.1.html">Project Muse</a>. It is part of a phenomenal forum on Digital Approaches to Periodical Studies that includes essential pieces (in order of appearance) by Elizabeth Hopwood, Benjamin Fagan, Kim Gallon, Jeffrey Drouin, and Amanda Gailey.</strong></p>
 
 <p>What has digitization meant for periodical studies, and what might it mean in the future? We should first consider how the digital archive changes notions of access, both political and practical. James Mussell notes that “the conditions that permitted newspapers and periodicals” to become the central medium of discourse in the nineteenth century—“their seriality, abundance, ephemerality, diversity, heterogeneity—posed problems for those who wanted to access their contents” in print forms.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a> The periodicals archive is vast and largely unindexed. In ways so basic and fully transformative that we easily overlook them, digitization and its attendant technology, keyword search, have <em>already</em> changed periodicals scholarship entirely, allowing researchers to easily identify topics of interest across swathes of newspapers, magazines, and related materials, and to just as easily incorporate those media as evidence for historical, literary, or other claims. <a href="http://rep.ucpress.edu/content/127/1/64.full-text.pdf+html">As Ted Underwood reminds us</a>, “[a]lgorithmic mining of large electronic databases has been quietly central to the humanities for two decades. We call this practice ‘search,’ but ‘search’ is a deceptively modest name for a complex technology that has come to play an evidentiary role in scholarship.”<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a> Though other forms of computational analysis will certainly influence periodicals research in the near future, the most dramatic methodological shift has already happened. </p><!--more-->
-
-
 
 <p>Patrick Leary wrote more than a decade ago <a href="http://www.victorianresearch.org/googling.pdf" target="_blank">in “Googling the Victorians”</a> that “[f]ortuitous electronic connections, and the information that circulates through them, are emerging as hallmarks of humanities scholarship in the digital age.”<a href="#fn:3" id="fnref:3" title="see footnote" class="footnote">[3]</a> Given the diversity of material available in mass digital archives such fortuitous connections are more likely to be drawn across media. Even Google Books, for instance, includes a huge array of eighteenth- and nineteenth-century periodicals that were bound by libraries, bringing periodicals into the purview of all its users, whether they go there seeking periodicals or not. Such access, coupled with more academically-oriented databases of historical newspapers and magazines, have meant that more scholars can and do cite periodicals today than did a few decades ago. <a href="https://muse.jhu.edu/journals/victorian_periodicals_review/v048/48.2.leary.html" target="_blank">More recently, Leary noted</a> that “[s]earching the newspaper collections for references to the people, ideas, publications, institutions, or events one is writing about is quickly becoming not merely an option but a necessity” even for more “casual” users of digital archives.<a href="#fn:4" id="fnref:4" title="see footnote" class="footnote">[4]</a> We might claim digitization has rendered periodicals more tractable to humanistic argumentation, broadly conceived, than they once were. </p>
 

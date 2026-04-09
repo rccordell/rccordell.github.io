@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Links from Graduate Fellowships Workshop
-date:   2014-10-02
-description: 
-tags: 
-categories: 
+date: 2014-10-02
+description:
+tags:
+categories:
 permalink: /graduate-school/links-from-graduate-fellowships-workshop/
 ---
-
 
 On October 2 I led an informal workshop for Northeastern English Graduate students about the process of applying for fellowships to support their research and/or teaching. These are some links I thought they might find useful in the fellowship discovery and application process:
 

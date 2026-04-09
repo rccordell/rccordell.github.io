@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  nGrams, Craters, and 19th Century Sectarianism
-date:   2011-07-26
-description: 
-tags: 
-categories: 
+title: nGrams, Craters, and 19th Century Sectarianism
+date: 2011-07-26
+description:
+tags:
+categories:
 permalink: /research/ngrams-craters-and-19th-century-sectarianism/
 ---
 
@@ -16,4 +16,5 @@ permalink: /research/ngrams-craters-and-19th-century-sectarianism/
 <a rel="attachment wp-att-399" href="http://ryan.cordells.us/blog/2011/07/26/ngrams-craters-and-19th-century-sectarianism/google-chrome/"><img class="alignnone size-full wp-image-399" title="Use of &quot;sectarian&quot; in 19C books and periodicals" src="http://ryancordell.org/wp-content/uploads/2011/07/Google-Chrome.jpg" alt="" width="437" height="314" /></a>
 
 Between 1800 and 1850, use of both terms increased by an order of magnitude. When Cooper wrote <em>The Crater</em> in 1847, in other words, his readers were ten times more likely to encounter the word "sectarian" in their books and magazines than readers in 1800. Such a dramatic increase in the use of the word "sectarian" does indeed signal a widespread preoccupation with the issue. When correlated with the textual examples I'd already gathered, this data gives me a powerful piece of evidence about how Cooper's novel contributed to a much larger discourse about denominational discord in the 1840s. Just like an "observation...about origins or etymology," this data supplemented my interpretation, but it didn't create it out of whole cloth.</p>
+
 <p>The nGrams Viewer alone says nothing about <em>how</em> these words were used in 1800 or 1850. That's where humanists come in, to make sense of these results. And that is precisely the point that Nunberg comes around to in his article: the nGrams Viewer can't entirely replace the work that humanists do. But this tool (and others like it) can be useful within a suite of interpretive tools, both technical and non-technical. I plan to continue experimenting, to see if this early success holds up in future research projects.</p>

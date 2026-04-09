@@ -1,18 +1,16 @@
 ---
 layout: post
 title: Scale as Deformance
-date:   2015-11-05
-description: 
-tags: 
-categories: 
+date: 2015-11-05
+description:
+tags:
+categories:
 permalink: /research/scale-as-deformance/
 ---
 
 <p>When I was ten years old my parents bought me a microscope set for Christmas. I spent the next weeks eagerly testing everything I could under its lens, beginning with the many samples provided in the box. I could not bring myself to apply the kit&#8217;s scalpel to the fully-preserved butterfly—which is intact still in the microscope box in my parents&#8217; attic—but soon I had exhausted all of the pre-made slides: sections of leaves, insect wings, crystalline minerals, scales from fish or lizard skin. The kit also included the supplies to create new slides. I wanted to see blood—my blood. And so with my mom&#8217;s help I pricked the tip of my finger with a very thin needle, so I could squeeze a single drop of blood onto the thin glass slide. I remember how it smeared as I applied the plastic coverslip to the top of the slide, and I remember the sense of wonder as I first saw my own blood through the microscope&#8217;s lens. Gone was the uniform red liquid, replaced by a bustling ecosystem of red and white cells, walls and enormous spaces where none had been when I was looking with my unaided eye. </p>
 
 <p>Looking at my blood through a microscope, I learned something new and true about it, but that micro view was not <em>more true</em> than familiar macro images. My blood is red and white cells jostling in clear plasma; my blood is also a red liquid that will run in bright-red rivulets from a pin-prick, or clot in dun-red patches over a wound. At micro-scales beyond the power of my children&#8217;s microscope, we could focus on the proteins that comprise the membrane of a red blood cell; at even more macro-scales we might consider a blood bank, organizing bags of blood by type for use in emergency rooms.</p><!--more-->
-
-
 
 <p>Grappling with scale is one of the most important and impossible tasks for scholars. What scientists are learning about reality at quantum scales is simply mind-bending, which is the same sensation provoked by trying to <em>really</em> reckon with just how far away are the planets photographed by the Hubble telescope. Those of us working with texts perhaps don’t imagine our subjects as awe-inspiring in the same way as colliding galaxies or spooky action at a distance but, <a href="http://dhdebates.gc.cuny.edu/debates/text/28">as Michael Whitmore argues</a>:
 

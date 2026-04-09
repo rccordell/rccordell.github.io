@@ -1,13 +1,12 @@
 ---
 layout: post
-title: '&#8220;Many Facts in Small Compass&#8221;: Information Literature in C19 Newspapers (MLA15 Talk)'
-date:   2015-01-09
-description: 
-tags: 
-categories: 
+title: "&#8220;Many Facts in Small Compass&#8221;: Information Literature in C19 Newspapers (MLA15 Talk)"
+date: 2015-01-09
+description:
+tags:
+categories:
 permalink: /research/mla/many-facts-in-small-compass-information-literature-in-c19-newspapers-mla15-talk/
 ---
-
 
 <h5>slide 1</h5>
 <h3 style="text-align: center;">Ryan Cordell, Northeastern University</h3>
@@ -18,10 +17,12 @@ permalink: /research/mla/many-facts-in-small-compass-information-literature-in-c
 My remarks today will be drawn from my work on <a href="http://viraltexts.org">the Viral Texts project at Northeastern University</a>. In brief, I’m working with a colleague in computer science to automatically identify the most frequently-reprinted texts in digitized archives of nineteenth-century newspapers. We have thus far drawn from the Library of Congress’ <a href="http://chroniclingamerica.loc.gov">Chronicling America</a> collection, but are currently expanding the corpora from which we are drawing to include magazines, as well as a broader selection of American and transatlantic newspapers. We have identified nearly half a million reprinted texts from the LoC’s nineteenth-century holdings. The majority of these were reprinted only a few times, but a significant minority were reprinted in 50, 100, or even 200 newspapers from this one archive.
 
 We went into this project in search of the literature, such as newspaper poetry, that flourished in a print culture founded on textual sharing and through a deeply hybrid and intertextual medium. In the broadest sense, I hoped to expand our ideas of which writers resonated with nineteenth-century readers and create new bibliographies of popular but critically-overlooked literature.
+
 <h5>slide 3</h5>
 On this front the project has been promising. For every reprinted Longfellow poem we find many more by authors such as <a href="http://chroniclingamerica.loc.gov/lccn/sn83035216/1860-08-04/ed-1/seq-1/print/image_600x600_from_4125%2C957_to_4869%2C2995/">Elizabeth Akers Allen</a>, <a href="http://chroniclingamerica.loc.gov/lccn/sn84028745/1861-06-27/ed-1/seq-4/print/image_600x600_from_491%2C454_to_1008%2C1540/">Isabella Banks</a>, <a href="http://chroniclingamerica.loc.gov/lccn/sn84038223/1864-09-22/ed-1/seq-4/print/image_600x600_from_494%2C0425_to_1388%2C3703/">Charles Monroe Dickinson</a>, <a href="http://chroniclingamerica.loc.gov/lccn/sn84026923/1867-02-13/ed-1/seq-4/print/image_600x600_from_184%2C792_to_1234%2C4950/">Colonel Theodore O’Hara</a>, <a href="http://chroniclingamerica.loc.gov/lccn/sn82016419/1859-09-03/ed-1/seq-4/print/image_600x600_from_453%2C867_to_1600%2C3312/">Emily Rebecca Page</a>, <a href="http://chroniclingamerica.loc.gov/lccn/sn84045030/1857-10-07/ed-1/seq-2/print/image_600x600_from_5705%2C438_to_6658%2C2442/">Nancy Priest Wakefield</a>, or <a href="http://chroniclingamerica.loc.gov/lccn/sn84022278/1859-03-23/ed-1/seq-1/print/image_600x600_from_323%2C1647_to_992%2C4154/">John Whitaker Watson</a>—or, perhaps even more likely, by an anonymous author. Such poems circulated within a system of exchanges and selection—newspaper editors cut, pasted, and recomposed content from their exchange partners and sent their papers to be similarly aggregated elsewhere.
 
 But recognizably literary genres have been only a small part of the project. One of the most dramatic outcomes of this work thus far has been to highlight the importance of understudied genres of everyday reading and writing within the ecology of nineteenth-century print culture. These species of writing include political news, travel accounts, squibs, scientific reports, inspirational or religious exhortations, temperance narratives, vignettes, self-help guides, trivia, recipes, and even, to borrow a modern Internet term, listicles, all of which juxtaposed with poems, stories, and news on the page of the nineteenth-century paper. As a general (and perhaps unsurprising rule), the most frequently-reprinted pieces are concise, quotable, and widely relatable texts that would have been easy to recontextualize for different newspapers and new audiences—and that could easily fit gaps in the physical newspaper pages, as editors and compositors needed.
+
 <h5>slide 4</h5>
 My remarks today focus on those genres we might categorize as “information literature”: lists, tables, recipes, scientific reports, trivia columns, and so forth. I want to separate these from news itself, which is certainly a kind of information genre, but which I would mark as stylistically and operationally distinct from the other genres I’ve listed. Here’s one example of information literature, <a href="http://chroniclingamerica.loc.gov/lccn/sn82015418/1862-04-17/ed-1/seq-4/print/image_600x600_from_2305%2C6447_to_3250%2C7418/">a list of supposed “facts,”</a> primarily about human lives and demographics, which was published under many names in at least 120 different newspapers between 1853 and 1899 (which is approximately one quarter of the nineteenth-century newspapers in Chronicling America).<!--more-->
 
@@ -30,6 +31,7 @@ My remarks today focus on those genres we might categorize as “information lit
 The specific facts listed shifted as the piece circulated, and the entire set was in some reprintings attributed to “a gentleman claiming to be ‘a friend of the human race,’” but the basic structure remained the same through decades of circulation.
 
 In many ways, I’m drawn to pieces like this one because they seem least explicable from the standpoint of literary historian, but I’m increasingly convinced they are important to a full understanding of nineteenth-century epistemologies. I’m convinced of this first by their sheer prevalence. Information literature makes up a significant percentage of the top 200-300 most frequently-reprinted pieces in our study.
+
 <h5>slide 5</h5>
 The popularity of these snippets no doubt stems in part from their malleability—a squib of interesting statistics requires little to no contextual prose, and could help a compositor fill a small gap on their page. Certainly such pieces were, to some extent, filler. But as an entire explanation, I find this too tidy. For one, such a reading misses the value that period editors placed on savvy selection, as you can see in editor’s comments such as those below, which are common in newspapers of the period.
 <blockquote>By the way, however, we have learned during our experience in these duties that a newspaper is not to be judged so much by the amount of original matter it contains as by its selections. It requires close reading and scissors! to make up an interesting sheet.
@@ -37,6 +39,7 @@ The popularity of these snippets no doubt stems in part from their malleability�
 &nbsp;
 
 The editing of a paper consists not in long editorials as much as in a diversity of good selections.
+
 <p style="text-align: right;"><i>Winchester Home Journal</i> (6 May 1858)</p>
 </blockquote>
 Perhaps more, however, I would argue that a purely utilitarian reading of such everyday information literature misses its relationship with other genres and trends during the period, as well as their instantiation of the newspaper’s emerging role as an information broker in nineteenth-century America. We might indeed think of the newspaper’s information literature as a kind of serialized and communally authored compendium of useful knowledge, drawing from and contributing to related genres of the book such as the journal or encyclopedia.
@@ -46,6 +49,7 @@ I have been in large part inspired to think in this way through Lauren Klein’s
 In <a href="http://lklein.com/2014/12/visualization-as-argument/">a recent talk on Elizabeth Peabody</a>, for instance, Klein argues that the visualizations of history in Peabody’s <i>Chronological History of the United States</i> “were intended to appeal to the senses directly, to provide ‘outlines to the eye.’ [Peabody’s] hope was that, in requiring her viewers to interpret the image, they would conjure the narrative of history, and therefore produce historical knowledge, for themselves.” Few nineteenth-century newspapers could afford frequent illustrations, much less complex visualizations or infographics, but I suspect the information literature they reprinted exemplifies a corollary hunger for “pure information” which readers could gather, organize, and contextualize, often in scrapbooks like those some of our other scholars on this panel will discuss.
 
 In her contribution to the book <a href="http://www.amazon.com/gp/product/B00HCW7H0A/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00HCW7H0A&amp;linkCode=as2&amp;tag=ryacorsonlhom-20&amp;linkId=EOVBXW3GFBE2QK7A"><i>Raw Data is an Oxymoron</i></a>, Ellen Gruber Garvey demonstrates how nineteenth-century abolitionists mined Southern newspapers “as a database,” compiling evidence of slavery’s evils from the very people and publications who defended the institution. In this instance the data is “raw” because it is drawn from those who would object to the interpretation offered of it through abolitionists’ acts of reorganization and commentary.
+
 <h5>slide 8</h5>
 Of course—as the title of the larger <i>Raw Data is an Oxymoron</i> volume proclaims—there is no such thing as raw data. In their introduction, Lisa Gitelman and Virginia Jackson argue, “Data need to be imagined <i>as</i> data to exist and function as such, and the imagination of data entails an interpretive base.” I want to suggest, then, that the many lists, tables, recipes, scientific reports, and related genres in nineteenth-century newspapers are catalysts for imagining the newspaper as information: a piling up of facts across a range of information-genres that register at different levels of what we might call empirical truth.
 <h5>slide 9</h5>
@@ -76,6 +80,7 @@ In <a href="http://chroniclingamerica.loc.gov/lccn/sn85026466/1851-09-10/ed-1/se
 <a href="http://chroniclingamerica.loc.gov/lccn/sn85026466/1851-09-10/ed-1/seq-4/print/image_600x600_from_1552%2C3759_to_2700%2C4851/"><img class="alignnone" src="http://chroniclingamerica.loc.gov/lccn/sn85026466/1851-09-10/ed-1/seq-4/image_600x600_from_1552,3759_to_2700,4851.jpg" alt="" width="600" height="570" /></a>
 
 Students “with access to newspapers” are identified as “decidedly superior” to those without. “The reason,” the snippet claims, “is plain—they had command of more facts” drawn from “a history of current events, as well as curious and interesting miscellany.”
+
 <h5>slide 22</h5>
 We might draw a link between the philosophies undergirding the composition of dictionaries and encyclopedias and those undergirding nineteenth-century newspaper exchanges. In <a href="http://reagle.org/joseph/pelican/social/wikipedia-and-modes-of-encyclopedic-production.html">an article on the history of encyclopedic production</a>, Joseph Reagle and Jeff Loveland describe copying among encyclopedias in the eighteenth and nineteenth centuries as a normative practice. They note, for instance, that prominent eighteenth-century encyclopedist Ephraim Chambers declared it “idle to pretend any thing of Property in Things of this Nature.” In this quote we might identify a precursor to notions of “raw data”— an idea that the encyclopedia’s articles merely report “facts” that exist independently of the writer and so cannot be owned. Reagle and Loveland’s claim that American publishers would justify their piracy of British encyclopedias as a service to their “knowledge-hungry” compatriots aligns with Meredith McGill’s arguments about <a href="http://www.amazon.com/gp/product/0812219953/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0812219953&amp;linkCode=as2&amp;tag=ryacorsonlhom-20&amp;linkId=OLWL7TIC3OGPNU4Y">the nineteenth-century “culture of reprinting”</a> in the US.
 <h5>slide 23</h5>
@@ -84,4 +89,5 @@ American reprinting of British books of all kinds through the nineteenth-century
 <a href="http://chroniclingamerica.loc.gov/lccn/sn85038518/1854-09-20/ed-1/seq-2/print/image_600x600_from_2844%2C1238_to_3649%2C2569/"><img class="alignnone" src="http://chroniclingamerica.loc.gov/lccn/sn85038518/1854-09-20/ed-1/seq-2/image_600x600_from_2844,1238_to_3649,2569.jpg" alt="" width="362" height="600" /></a>
 
 I’m near the end of my time now, and so in brief closing, I want to suggest that, when considered in aggregate, the most popular examples of information literature from nineteenth-century newspapers no longer seem curiosities belonging to one or another publication. Instead, these widely-reprinted snippets offer insight into newspapers self-construction of their own textual authority and relationship to their readers in a moment in which the landscape of print was itself being radically reassembled. No single snippet accomplished these things, but through accretion a mass of interesting facts, statistics, recipes, and other information literature shaped nineteenth-century readers' expectations about what a newspaper was for.
+
 <h5>slide 25</h5>

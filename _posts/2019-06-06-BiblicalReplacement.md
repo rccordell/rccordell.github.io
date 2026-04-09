@@ -6,9 +6,9 @@ permalink: /teaching/biblicalreplacement/
 layout: post
 ---
 
-**UPDATE:** *I have been wanting to experiment with Shiny for awhile, so I used this silly experiment as an opportunity to teach myself the basics. There's now a barebones Shiny web app at <https://ryancordell.shinyapps.io/BiblicalFindNReplace/> you can use to perform your own Biblical Substitutions*
+**UPDATE:** _I have been wanting to experiment with Shiny for awhile, so I used this silly experiment as an opportunity to teach myself the basics. There's now a barebones Shiny web app at <https://ryancordell.shinyapps.io/BiblicalFindNReplace/> you can use to perform your own Biblical Substitutions_
 
-In my post/talk ["Teaching Humanities Data Analysis"](https://ryancordell.org/research/teachingHDA/) I recommended that such instruction start with creativity, and cited as an example an exercise I do with students designing mad-libs style Twitter poetry bots. The question of teaching data analysis is very much on my mind as I prepare the code workbooks that will serve as lessons for the "Introduction to Humanities Data Analysis & Visualization in R" I will teach with [Gregory J. Palermo](https://palermog.github.io/) at the [Digital Humanities Summer Institute](http://dhsi.org/index.php) next week. 
+In my post/talk ["Teaching Humanities Data Analysis"](https://ryancordell.org/research/teachingHDA/) I recommended that such instruction start with creativity, and cited as an example an exercise I do with students designing mad-libs style Twitter poetry bots. The question of teaching data analysis is very much on my mind as I prepare the code workbooks that will serve as lessons for the "Introduction to Humanities Data Analysis & Visualization in R" I will teach with [Gregory J. Palermo](https://palermog.github.io/) at the [Digital Humanities Summer Institute](http://dhsi.org/index.php) next week.
 
 This morning I came across a Facebook post by [Lee Skallerup Bessette](https://readywriting.org/) linking to Daniel Mallory Ortberg's hilarious ["Bible Verses Where “Behold” Has Been Replaced With “Look, Buddy”](http://the-toast.net/2016/06/06/bible-verses-where-behold-has-been-replaced-with-look-buddy/), which gave me an idea for a fun, simple, day one exercise that will teach the very basics of filtering textual data and manipulating strings. Essentially, I wrote a short R function that accepts two strings—a phrase to search, and a phrase to replace it with—searches the King James Version of the Bible for all verses including the search phrase, and creates a news version of that verse using the replacement phrase. It works just like the `find and replace` functions in a program like Word, but with the slight advantage of only outputting the verses that include the replaced phrase. The pertinent code can be found in [this Gist on Github](https://gist.github.com/rccordell/ceb46023066b632a31d2c47d4b07369f) and I've embedded it below. Feel free to experiment with it!
 
@@ -245,7 +245,6 @@ Hebrews 12:10 For they for real, dude, for a few days chastened us after their o
 
 ```
 
-
 While substituting "bitch, please" for "nay" (my wife's suggestion) is hilarious when it works, but it doesn't always quite fit:
 
 ```
@@ -351,7 +350,7 @@ James 5:12 But above all things, my brethren, swear not, neither by heaven, neit
 
 ```
 
-Perhaps my single favorite experiment I tried today substitutes "it'd be great if you could" for the phrase "thou shalt," turning lots of Biblical oratory into the middle manage from *Office Space*. Enjoy! If you make any of your own let me know about them.
+Perhaps my single favorite experiment I tried today substitutes "it'd be great if you could" for the phrase "thou shalt," turning lots of Biblical oratory into the middle manage from _Office Space_. Enjoy! If you make any of your own let me know about them.
 
 <iframe src="https://giphy.com/embed/PER8oVobtMcus" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 

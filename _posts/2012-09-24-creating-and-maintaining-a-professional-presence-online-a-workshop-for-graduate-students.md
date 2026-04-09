@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 'Creating and Maintaining a Professional Presence Online: A Workshop for Graduate Students'
-date:   2012-09-24
-description: 
-tags: 
-categories: 
+title: "Creating and Maintaining a Professional Presence Online: A Workshop for Graduate Students"
+date: 2012-09-24
+description:
+tags:
+categories:
 permalink: /graduate-school/creating-and-maintaining-a-professional-presence-online-a-workshop-for-graduate-students/
 ---
-
 
 <p>Today I'll be running a workshop for students in <a href="http://www.northeastern.edu/english/graduate/">Northeastern University's English Graduate Program</a> on "Creating and Maintaining a Professional Presence Online." This is an essential topic for scholars entering the field today, but it's rarely addressed in any formal way by departments. The decision to take one's scholarship online (or the decision not to) both have real consequences on the job market and beyond.</p>
 <p>As I did before our <a href="http://ryan.cordells.us/blog/2012/09/12/useful-resources-for-the-academic-job-market/">job market session a few weeks ago</a>, I turned to colleagues online for help finding useful articles or blog posts on the subject. Here are the links I'll be passing on today:

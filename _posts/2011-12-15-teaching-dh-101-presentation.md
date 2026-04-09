@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Teaching DH 101 Presentation
-date:   2011-12-15
-description: 
-tags: 
-categories: 
+date: 2011-12-15
+description:
+tags:
+categories:
 permalink: /teaching/teaching-dh-101-presentation/
 ---
 

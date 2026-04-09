@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'MLA 2017 Session: &#8220;#AllTheFeels: Sentimentalism Then and Now&#8221;'
-date:   2016-12-07
-description: 
-tags: 
-categories: 
+title: "MLA 2017 Session: &#8220;#AllTheFeels: Sentimentalism Then and Now&#8221;"
+date: 2016-12-07
+description:
+tags:
+categories:
 permalink: /research/allthefeels/
 ---
 
@@ -20,7 +20,6 @@ Sentimentalism is not merely about the expression of emotion but about its circu
 The acts of viral identification that undergird sentimental engagement can prompt readers and viewers not only to feel with fictional characters and faraway individuals but to participate imaginatively in their lives. This impulse finds its online outlet in the phenomenon of fanfiction, in which readers or viewers rewrite, revise, or extend the diegetic details of beloved films or books. While fanfiction is often considered to be a uniquely postmodern genre brought into being by the internet, Candace Cunard’s “Rewriting Richardson’s <em>Clarissa</em>: Sentimentalism and the AU Impulse” demonstrates that sentimental texts have long inspired readers to reimagine them. Samuel Richardson’s <em>Clarissa: or, the History of a Young Lady</em> (1747-8) was one of the first sentimental novels of the eighteenth century and also, Cunard argues, one of the first to generate substantial rewritings of the type labeled by contemporary fanfiction authors as “alternate universe” (AU). Cunard examines Lady Elizabeth Echlin’s rewriting of the third installment of <em>Clarissa</em> and argues that it is “alternate universe” in more ways than one: Echlin imagines, not just an alternate ending to the novel, but fundamental changes to the novel’s patriarchal universe that must occur if women like Clarissa are to be protected from misogynist violence. Such “alternate universe thinking” is embedded in sentimentalism across the centuries and is akin to the practices Eve Sedgwick identifies as “reparative reading,” in which detailed visions of a better world help readers cope with the insufficiencies of this one.
 
 Rather than a relic of an eighteenth- and nineteenth-century past, then, sentimentalism continues to undergird cultural interactions—interactions now facilitated by quick and constant online communication. During the discussion portion of the session, audience members will be invited to supplement, complement, or complicate the examples set forth by Reed, Cordell, and Cunard, and also to consider sentimental insufficiences: virtual sites where identification and circulation break down. Participants might consider, for instance, the relationship between the ironic sentimentalism posited by Reed and the internet’s other dominant affective stance: rage. Audience members might also discuss the gender of internet culture: since sentimentalism is a category historically associated with women and with the private sphere, how does a public, male-authored project like HONY challenge our understanding of sentimentalism? Our three-person panel leaves plenty of time for approaching these and other questions.
-
 
 <h3>Works Cited</h3>
 

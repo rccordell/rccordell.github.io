@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'Mea Culpa: on Conference Tweeting, Politeness, and Community Building'
-date:   2013-01-26
-description: 
-tags: 
-categories: 
+title: "Mea Culpa: on Conference Tweeting, Politeness, and Community Building"
+date: 2013-01-26
+description:
+tags:
+categories:
 permalink: /academic-profession/mea-culpa-on-conference-tweeting-politeness-and-community-building/
 ---
 
-
 Kathleen Fitzpatrick's post <a href="http://www.plannedobsolescence.net/blog/if-you-cant-say-anything-nice/">"If You Can't Say Anything Nice"</a> post about public shaming on Twitter came at a timely moment for me. Describing the culture of Twitter commentary, she writes:
+
 <blockquote>You get irritated by something — something someone said or didn’t say, something that doesn’t work the way you want it to — you toss off a quick complaint, and you link to the offender so that they see it. You’re in a hurry, you’ve only got so much space, and (if you’re being honest with yourself) you’re hoping that your followers will agree with your complaint, or find it funny, or that it will otherwise catch their attention enough to be RT’d.
 
 I’ve done this, probably more times than I want to admit, without even thinking about it. But I’ve also been on the receiving end of this kind of public insult a few times, and I’m here to tell you, it sucks.</blockquote>
@@ -30,6 +30,7 @@ But that was several years ago, when I had far fewer followers on Twitter, and w
 Within <i>this</i> framework, the same kind of Twitter chatter that helped build DH communities only a few years ago can resonate with newcomers to the field precisely as that vigorous denunciation of "technology" resonated for me as a young nineteenth-century Americanist. In other words, Twitter chatter can easily read not as community building, but as insider dismissal and exclusion. Such exchanges belie claims that DH is an open field, instead alienating scholars attempting to engage with it. We are no longer the upstarts; we are increasingly seen as the establishment. While this perception doesn't exactly line up with reality, it certainly shapes the way our Twitter conversations—and in turn the wider DH field—are perceived by newcomers to it. In Elaine's case, she felt she was being dismissed out of hand by scholars whose work she knows and respects; we had convinced her that she didn't belong in DH. This is a terrible outcome our field should be wary of replicating.
 <img class="alignleft" style="margin: 20px" title="Gossipy Flamingoes" alt="" src="http://farm5.staticflickr.com/4129/4956514190_d7a3bf1014_n.jpg" width="320" height="213" />
 Nevertheless, I remain firmly convinced that Twitter conversations can supplement and enrich academic conferences, providing a record of their proceedings, allowing scholars to engage actively with their presenting colleagues, and providing access to conferences to those scholars who cannot attend. But as a community, we need to think hard about how to retain the value of conference tweeting while mitigating the alienating effects of conference tweeting on our colleagues. This does not mean, I think, refraining from any critique on Twitter, but will mean remembering when crafting those critiques that there are real people on the receiving end.
+
 <h2>Principles of Conference Tweeting</h2>
 Going forward, I'm going to try and tweet conference panels following these principles.
 <ol>

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hawthorne Article Published at DHQ
-date:   2013-08-01
-description: 
-tags: 
-categories: 
+date: 2013-08-01
+description:
+tags:
+categories:
 permalink: /personal/hawthorne-article-published-at-dhq/
 ---
 

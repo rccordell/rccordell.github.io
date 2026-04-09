@@ -1,17 +1,17 @@
 ---
 layout: post
 title: How Not to Teach Digital Humanities
-date:   2015-02-01
-description: 
-tags: 
-categories: 
+date: 2015-02-01
+description:
+tags:
+categories:
 permalink: /teaching/how-not-to-teach-digital-humanities/
 ---
 
 <em>The following is a talk I've revised over the past few years. It began with <a href="http://ryancordell.org/teaching/dh-interdisciplinarity-and-curricular-incursion/">a post on "curricular incursion"</a>, the ideas of which developed through a talk at DH2013 and two invited talks, one at the University of Michigan's Institute for the Humanities in March 2014 and another at the Freedman Center for Digital Scholarship's "Pedagogy and Practices" Colloquium at Case Western Reserve University in November 2014. I've embedded a video from the latter presentation at the bottom of the article. There is a more polished version of the article available in <a href="http://dhdebates.gc.cuny.edu/debates/text/87" target="_blank"><em>Debates in the Digital Humanities 2016</em></a>.</em>
 
 [![Students sit as a machine pipes information into helmets on their heads in a French painting from 1910](/img/3_95b1.jpg "À l' École, Villemard (1910)")](http://expositions.bnf.fr/utopie/grand/3_95b1.htm)
-[*"À l' École," Villemard (1910)*](http://expositions.bnf.fr/utopie/grand/3_95b1.htm)
+[_"À l' École," Villemard (1910)_](http://expositions.bnf.fr/utopie/grand/3_95b1.htm)
 
 In late summer of 2010, I arrived on the campus of St. Norbert College in De Pere, Wisconsin. I was a newly-minted assistant professor, brimming with optimism, and the field with which I increasingly identified my work—this “digital humanities”—had just been declared <a href="http://chronicle.com/blogPost/The-MLAthe-Digital/19468/">“the first ‘next big thing’ in a long time”</a> by William Pannapacker in his <i>Chronicle of Higher Education</i> column. “We are now realizing,” Pannapacker had written of the professors gathered at the Modern Language Association’s annual convention, “that resistance is futile.” So of course I immediately proposed a new “Introduction to Digital Humanities” course for upper-level undergraduates at St. Norbert. My syllabus was, perhaps, hastily constructed—patched together from “Intro to DH” syllabi in a Zotero group—but surely it would pass muster. They had hired me, after all; surely they were keen to see digital humanities in the curriculum. In any case, how could the curricular committee reject “the next big thing?” particularly when resistance was futile?
 
@@ -49,6 +49,7 @@ In one oft-cited “What is DH?” piece (which appeared in the first <i>Debates
 <blockquote>On the one hand, then, digital humanities is a term possessed of enough currency and escape velocity to penetrate layers of administrative strata to get funds allocated, initiatives under way, and plans set in motion. On the other hand, it is a populist term, self-identified and self-perpetuating through the algorithmic structures of contemporary social media [...] Digital humanities, which began as a term of consensus among a relatively small group of researchers, is now backed on a growing number of campuses by a level of funding, infrastructure, and administrative commitments that would have been unthinkable even a decade ago. Even more recently, I would argue, the network effects of blogs and Twitter at a moment when the academy itself is facing massive and often wrenching changes linked both to new technologies and the changing political and economic landscape has led to the construction of “digital humanities” as a free-floating signifier, one that increasingly serves to focus the anxiety and even outrage of individual scholars over their own lack of agency amid the turmoil in their institutions and profession.
 
 Matthew Kirschenbaum, “What Is Digital Humanities and What’s It Doing in English Departments?” (417)
+
 </blockquote>
 
 For Kirschenbaum, the “‘tactical’ coinage” of “digital humanities” can be “unabashedly deployed to get things done” (415). As true as this can be, particularly at the administrative level, DH remains a murky term for our colleagues, our students, and, if we were being honest, for those administrators. What’s more, the many options offered in “What is DH?” pieces rarely clarify the question. In my experience, these definitional articles do little to clarify the field for newcomers, except to erect ideas of barriers more rigid in prose than in practice. Indeed, I have never known a colleague read such a piece and come away realizing, “I <i>am</i> a digital humanist after all!”
@@ -74,7 +75,6 @@ As an umbrella term for many kinds of technologically enhanced scholarly work, D
 
 Attempts have been made to revise the terms we use. Bill Pannapacker <a href="http://chronicle.com/article/Stop-Calling-It-Digital/137325/">recently proposed “Digital Liberal Arts” as a replacement for DH</a>, particularly at small liberal arts colleges in which a wider range of fields might be wanted to rally under the banner. And it seems that DLA has gotten some traction at several institutions. But for undergraduates, I would argue “digital liberal arts” misses the mark just as badly as “digital humanities.” For many undergraduate students, “liberal arts” signifies no more than “humanities,” and I actually suspect “digital” signifies in ways quite opposite to our intentions.
 
-
 <h2>3. Undergraduates are Scarred by Digitality</h2>
 
 We pair "digital" with "humanities" and feel we have something revolutionary, but for our undergraduate students the word digital is profoundly unimpressive. Their music is digital. Their television is digital. Many of their books and school materials are and have always been digital. To brag that <i>our</i> humanities (or our liberal arts) are digital is to proclaim that we've met a base requirement for modern communication. It would be like your bank crowing that you can check your account online. Of course you can. At this point, you would only notice if you couldn’t.
@@ -88,22 +88,22 @@ These same students then came to universities being “disrupted” by the MOOC 
 In short, I worry that we dismiss our students' reservations about DH too blithely. Our students' technological skepticism—which is often expressed through the language of "I'm not very good at computer stuff"—is not the same as our colleagues’ technological skepticism. Many of our students honestly, truly, really choose literature or history or art history or religious studies because they wanted to read and think deeply rather than follow what they perceive as a more instrumentalist education in business or technical fields. To do so they often resist substantial pressure from family and friends pushing them toward "more practical" majors, which are often (though incorrectly) perceived to be more technical majors. Of course, DH can help students read and think deeply, but we would do well to try and see this exchange from our students’ perspective.
 
 [![Detail fro an ECAR survey showing student opinions of teachers' technology use](/img/EIG1103-117x300.jpg)](http://net.educause.edu/ir/library/pdf/ERS1103/EIG1103.pdf)
-[*"From and ECAR National Study (2011)*](http://net.educause.edu/ir/library/pdf/ERS1103/EIG1103.pdf)
+[_"From and ECAR National Study (2011)_](http://net.educause.edu/ir/library/pdf/ERS1103/EIG1103.pdf)
 
 In many ways, I think the way we often frame DH tries a bit to hard to achieve a <i>Dead Poets Society</i> moment: "your other teachers taught you literature with close reading and literary criticism, but in my class we’re going to disrupt that stale paradigm using <i>computers</i>. Now rip up your books and pull out your laptop!" But those attempts fall flat, for all the reasons I’ve tried to articulate above. Indeed, a growing body of evidence from students seem to correlate at least two of the points I've made here. A <a href="http://www.educause.edu/library/resources/ecar-national-study-undergraduate-students-and-information-technology-2011-report">2011 survey by EDUCAUSE</a>, for instance, found that only 1-4 students believe strongly that "their institution uses the technology it has effectively.” The survey tells us also a good deal about what students (or perhaps more to the point, what EDUCAUSE) believes "technology" entails—namely, hardware and commercial software. Few students surveyed believe their instructors use technology effectively, and a majority believe they understand technology better than their teachers. For such a student, imagine how it must sound to hear her teacher talking up "computers" and "digital tools.”
 
 <a href="http://virginiafilmfestival.org/films/dead-poets-society/" target="_blank"><img src="http://virginiafilmfestival.org/wp-content/uploads/2014/10/DeadPoetsSocietyFINAL.jpg" alt="Robin Williams stands on students' desks in a scene from Dead Poets Society." width="600" /></a>
-  
-*Robin Williams in Dead Poets Society*
 
------
+_Robin Williams in Dead Poets Society_
+
+---
 
 <h1>But DON’T PANIC.</h1>
 
 Because students do love doing DH things, when those DH things are framed around particular skills and often within disciplinary structures. And I would argue more and more that the way we should integrate DH into the undergraduate curriculum is as a naturalized part of what literary scholars or historians or other humanists do. Teach distant reading alongside close reading and don't worry about proving how revolutionary the former is. Such an approach also lowers the barrier for “doing dh” in the undergraduate classroom. You don’t have to be a DH expert to create—or better yet steal—a few exciting DH assignments.
 
 [![Detail fro an ECAR survey showing student opinions of teachers' technology use](/img/EIG1103-2-289x300.jpg)](http://net.educause.edu/ir/library/pdf/ERS1103/EIG1103.pdf)
-[*"From and ECAR National Study (2011)*](http://net.educause.edu/ir/library/pdf/ERS1103/EIG1103.pdf)
+[_"From and ECAR National Study (2011)_](http://net.educause.edu/ir/library/pdf/ERS1103/EIG1103.pdf)
 
 I find it helpful to look back at that EDUCAUSE report and infographic again, this time focused on what students reported wanting to learn more about. When asked what skills they wished they knew better, students responded programming language (48%), audio creation (41%), e-portfolios (40%), geotagging (40%), and speech recognition (38%). These skills have little to do with particular hardware or commercial software. Indeed, the skills students want are those which would allow them to create their own digital work, and perhaps even their own tools—in other words, they want to learn to engage with, and not simply use, technology in the classroom.
 
@@ -128,8 +128,8 @@ In many of my courses, one way students start small with DH skills is through cl
 My second principle builds on the first: integrate when possible. “Technologies of Text” teaches many DH ideas and skills: in our labs we <a href="http://f14tot.ryancordell.org/2014/11/03/lab-11-wikipedia/">edit wikipedia</a>, <a href="http://f14tot.ryancordell.org/2014/09/17/lab-4-xmltei-encoding/">encode documents in TEI</a>, learn the basics of <a href="http://f14tot.ryancordell.org/2014/10/15/lab-8-distant-reading/">computational text analysis</a>, or <a href="http://f14tot.ryancordell.org/2014/11/12/lab-12-scripting/">program chatbots</a> using the Python programming language.
 
 <a href="/img/candlelightphoto.jpg" target="_blank"><img src="/img/candlelightphoto.jpg" alt="Students in my Technologies of Text class transcribe by candlelight." width="600" /></a>
-  
-*Students in my Technologies of Text class transcribe by candlelight.*
+
+_Students in my Technologies of Text class transcribe by candlelight._
 
 These labs, however, are framed not within a narrative of recent scholarly revolution, but instead within a sweeping discussion of book and media history. Before students learn to operate a 3D printer, then, they have transcribed manuscripts by candlelight in a <a href="http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/">simulation of the medieval scriptorium</a>, made rag paper, <a href="http://f14tot.ryancordell.org/2014/10/25/lab-10-museum-of-printing/">set type and printed on a letterpress</a>, <a href="http://f14tot.ryancordell.org/2014/10/02/lab-6-across-print-modalities/">visited the National Braille Press</a>, and spent significant time in the Rare Books room at the Boston Public Library. Each of these labs helps students understand technology not as something we invented ten years ago (give or take), but as a long continuum of human activity.
 
@@ -150,14 +150,14 @@ These labs, however, are framed not within a narrative of recent scholarly revol
 By contextualizing our moment of digital remediation historically, as but the latest phase in a long history of textual reinvention, I help students understand why my assignments ask them to experiment across modalities. Those assignments push them beyond their comfort zone—for English students, their comfort zone is writing a 7 page paper—asking them to consider the medium as well as the message of their own research and arguments.
 
 <a href="/img/10671364_10203825380492532_5377926809410020429_n.jpg" target="_blank"><img src="/img/10671364_10203825380492532_5377926809410020429_n.jpg" alt="Technologies of Text students set type and print at the Museum of Printing in North Andover, MA." width="600" /></a>
-  
-*Technologies of Text students set type and print at the <a href="http://www.museumofprinting.org">Museum of Printing in North Andover, MA</a>.*
+
+_Technologies of Text students set type and print at the <a href="http://www.museumofprinting.org">Museum of Printing in North Andover, MA</a>._
 
 These labs prepare students to develop <a href="http://f14tot.ryancordell.org/assignments/unessays/">their own "unessays"</a> as midterm and final assignments. I am hoping to develop another post about these unessays, and so won't belabor a discussion of them here, but I do want to highlight the broad range of engagements students choose in the model unessays linked from the assignment, which include theoretical engagements with media, personal TEI encoding projects, video essays, argumentative listicles, altered books, built morse code devices, and even physical "twitter poetry bot" generators.
 
 <a href="/img/1506470_10204324174722076_2387497065720674515_n.jpg" target="_blank"><img src="/img/1506470_10204324174722076_2387497065720674515_n.jpg" alt="Part of a Technology of Texts student's unessay, in which she created a physical twitter poetry bot along the model of those we'd built in Python for one of the course labs." width="600" /></a>
-  
-*Part of a "Technology of Text" student's unessay, in which she created a physical "twitter poetry bot" along the model of those we'd built in Python for one of the course labs.*
+
+_Part of a "Technology of Text" student's unessay, in which she created a physical "twitter poetry bot" along the model of those we'd built in Python for one of the course labs._
 
 These disparate assignments allowed students to grapple with those aspects of the course they found most compelling, both in terms of content and in terms of technology and method. In an "Introduction to DH" course these engagements might not all make sense, but under the rubric of book and communications history they certainly do. For several of these students, working on such assignments did generate a broader DH interest, and they have developed personal DH projects or gone on to work for other DH projects ongoing at Northeastern.
 
@@ -200,6 +200,6 @@ Perhaps “digital humanities” will one day fall away, as some have predicted.
 
 In such an environment, digital humanities remains a useful banner for gathering a community of scholars doing weird humanities work with computers. And I suspect it will continue to be useful for awhile yet, long after the current wave of DH mania subsides, I hope, into a more productive rapprochement with the larger humanities fields.
 
------
+---
 
 <iframe src="//www.youtube.com/embed/PoaKhHhZ-_Y?list=PLBELrG1nZ2U7uwRc5kwZPdnt2tKYkf9pv" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

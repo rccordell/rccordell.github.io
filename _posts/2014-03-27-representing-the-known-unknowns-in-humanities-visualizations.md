@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Representing the &#8220;Known Unknowns&#8221; in Humanities Visualizations'
-date:   2014-03-27
-description: 
-tags: 
-categories: 
+title: "Representing the &#8220;Known Unknowns&#8221; in Humanities Visualizations"
+date: 2014-03-27
+description:
+tags:
+categories:
 permalink: /research/representing-the-known-unknowns-in-humanities-visualizations/
 ---
 
@@ -29,7 +29,6 @@ In this map I've visualized the 50 reprintings we have identified of one text, a
 Nevertheless, I'm happy with these maps as helping me begin to think through how I can represent the absences of the digital archives from which our project draws. And indeed, I've begun thinking about how such maps might help us agitate—in admittedly small ways—for increased digitization and data-level access for humanities projects.
 
 <img src="/img/ViralText-FP.png" alt="" width="100%" />
-
 
 This map, for instance, visualizes the <strong>130 reprints</strong> of that same "Eloquent Extract" which we were able to identify searching across <em>Chronicling America</em> and a range of commercial periodicals archives (and huge thanks to project RA <a href="https://twitter.com/Peter_Roby">Peter Roby</a> for keyword searching many archives in search of such examples). For me this map is both exciting and dispiriting, pointing to what could be possible for large-scale text mining projects while simultaneously emphasizing just how much we are missing when forced to work only with openly-available data. If we had access to a larger digitized cultural record we could do so much more. A part of me hopes that if scholars, librarians, and others see such maps they will advocate for increased access to historical materials in open collections. As I said in my talk at the recent C19 conference:
 

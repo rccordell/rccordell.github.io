@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "A C19 Reprint Discovery Engine (or, Where I Think This Hawthorne Stuff May Eventually Go)"
-date:   2011-10-08
-description: 
-tags: 
-categories: 
+title: "A C19 Reprint Discovery Engine (or, Where I Think This Hawthorne Stuff May Eventually Go)"
+date: 2011-10-08
+description:
+tags:
+categories:
 permalink: /research/c19-reprint-discovery-engine/
 ---
 
@@ -17,6 +17,7 @@ Which leads me to the question, “What’s next?” I’ve been thinking quite 
 Once I publish my Hawthorne research this summer, I want to start working on something much bigger: a reprint discovery engine for nineteenth-century periodicals archives. I imagine a tool not unlike the <a href="http://books.google.com/ngrams/graph?content=celestial+railroad&amp;year_start=1800&amp;year_end=2000&amp;corpus=0&amp;smoothing=3">Google Ngram Viewer</a>, but focused on textual reprint and reference. This project would likely start by investigating a database like the <a href="http://chroniclingamerica.loc.gov/">Library of Congress’ “Chronicling America”</a> collection, which is open and includes <a href="http://chroniclingamerica.loc.gov/about/api/">“an extensive application programming interface (API) which you can use to explore all of our data in many ways.”</a>
 
 I imagine the reprint discovery tool developing in two stages:
+
 <ol>
 	<li>In its first stage, the tool likely would require base texts for each inquiry. Users would enter, say, the text of Poe’s “Purloined Letter” and the tool would automatically break the short story into n-grams—sequences of words or letters. Then, the tool would automatically query a periodical archive for each n-gram sequence. Why so many queries? As I found with the Hawthorne project, simple title searches are insufficient, as reprints were often untitled or retitled by newspaper and magazine editors. In addition, title searches won’t return quotations from or references to the base text in other kinds of articles: such as the sermons or religious articles I found that quoted just a line or two from “The Celestial Railroad.” The tool should allow readers to tweak the length of the n-gram sequences on the fly—in my OS X-bound imagination, I see a slider—so that an inquiry could be broadened or narrowed based on the results returned. Such a tool would allow users to discover not only reprints of their chosen text, but also the paratexts essential to understanding the reception history of the story or poem.</li>
 	<li>In the tool’s second stage, I would hope to automate the first part of the reprint discovery process: the discovery of base texts. The problem with the tool I’ve outlined in stage 1 is that it would likely only be used for texts scholars already find interesting—stories or poems that scholars suspect are worth searching periodicals archives for, because they have some sense of an existing history of widespread reprinting and/or reference. If the tool itself could dig into the archive in search of base texts, however, then we might discover texts that were widely reprinted and referenced but have since fallen out of our cultural memory. Such a tool could generate significant new scholarship, as important new texts and authors resurfaced and demanded further study. How might this work technically? I’m not certain. Perhaps the tool would crawl through the entire archive database, breaking the archive itself into n-grams and then looking for matches. I’ll need a programmer to tell me whether that’s in the realm of possibilities, or whether there’s another approach that would be more fruitful.</li>

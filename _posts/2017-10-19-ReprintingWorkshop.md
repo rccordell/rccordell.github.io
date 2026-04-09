@@ -6,15 +6,14 @@ layout: post
 permalink: /research/unam-workshop/
 ---
 
-
 Where: [Congreso Internacional Las Edades del Libro](http://www.actividadesacademicas.iib.unam.mx/index.php/EDL/edl17/schedConf/overview), UNAM, Mexico City  
 When: Thursday, 19 October 2017, 4:30-6:30pm
 
-### Abstract 
+### Abstract
 
 This workshop will teach participants about the structures of exchange, aggregation, and reproduction that underlay newspapers during the nineteenth century. Together we will explore the technologies, economics, and social relationships that fostered the culture of reprinting; examine the genres of writing that flourished in this system; and overview the institutional, legal, and political changes that shifted the newspaper toward twentieth-century journalistic ideals. The workshop will consider the ways that an examination of historical reprinting might help us better understand “viral media” online, as well as considering the limitations of such transhistorical metaphors. Finally, the workshop will offer an introduction to computational techniques for exploring digitized newspapers, demonstrating to participants how algorithmic approaches to text can surface patterns in digital historical data that are less apparent in analog media.
 
------
+---
 
 ### I. Introductions (4:30-4:40)
 
@@ -35,7 +34,7 @@ Once everyone has time to evaluate 2-3 newspapers, we will discuss our ideas tog
 
 [![A newspaper illustration depicting a man engaging in barter, paying his yearly newspaper subscription to the "Podunk Weekly Bugle" with various farm produce.](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)](https://commons.wikimedia.org/wiki/File:Barter-Chickens_for_Subscription.jpg)
 
-*The Country Editor—Paying the Yearly Subscription, drawn by F. S. Church for* Harper's Weekly *(17 January 1874). See a full-resolution version at [at Wikimedia](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)*
+_The Country Editor—Paying the Yearly Subscription, drawn by F. S. Church for_ Harper's Weekly _(17 January 1874). See a full-resolution version at [at Wikimedia](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)_
 
 ### IV. Computational Exploration (5:40-6:10)
 
@@ -49,20 +48,20 @@ library(wordcloud)
 
 raven <- tibble(text=read_file("http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.txt")) # a tibble is special kind of dataframe we'll learn more about in week 3
 
-raven %>% 
+raven %>%
   unnest_tokens(word,text) %>%
   count(word,sort=T)
 
-raven %>% 
+raven %>%
   unnest_tokens(word,text) %>%
-  count(word,sort=T) %>% 
+  count(word,sort=T) %>%
   with(wordcloud(word,n,max.words = 100))
 
 data("stop_words") # <- Load the stop words data
 
-raven %>% 
+raven %>%
   unnest_tokens(word,text) %>%
-  count(word,sort=T) %>% 
+  count(word,sort=T) %>%
   anti_join(stop_words) %>% #<- This is the only change to our little program from before.
   with(wordcloud(word,n))
 
@@ -72,11 +71,11 @@ raven %>%
 
 raven %>%
   unnest_tokens(word,text,token="ngrams",n=3) %>%
-  group_by(word) %>% 
+  group_by(word) %>%
   filter(n()>3) %>%
-  ggplot() + 
-  geom_bar(fill="red") + 
-  aes(x=word) + 
+  ggplot() +
+  geom_bar(fill="red") +
+  aes(x=word) +
   coord_flip()
 
 ravenGrams <- as_data_frame(raven %>%
@@ -91,22 +90,22 @@ newspaperPages <- data_frame(
   text = c(text=read_file("http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.txt"),text=read_file("http://chroniclingamerica.loc.gov/lccn/sn98060050/1845-02-28/ed-1/seq-1/ocr.txt")),
   title = c("LewisburgChronicle","VermontPhoenix"))
 
-newspaperPages %>% 
+newspaperPages %>%
   unnest_tokens(word,text,token = "ngrams", n = 5) %>% # <- New
-  group_by(title, word) %>% 
+  group_by(title, word) %>%
   summarize(count = n()) %>%
   arrange(desc(count)) %>%
   View()
 
 newspaperPages %>%
   unnest_tokens(word,text,token = "ngrams", n=5) %>%
-  group_by(title,word) %>% 
-  summarize(count=n()) %>% 
-  spread(title,count,fill=0) %>% 
-  # filter(LewisburgChronicle + VermontPhoenix > 2) %>% 
+  group_by(title,word) %>%
+  summarize(count=n()) %>%
+  spread(title,count,fill=0) %>%
+  # filter(LewisburgChronicle + VermontPhoenix > 2) %>%
   ggplot() +
-  aes(x=LewisburgChronicle,y=VermontPhoenix,label=word) + 
-  geom_point(alpha=.3) + 
+  aes(x=LewisburgChronicle,y=VermontPhoenix,label=word) +
+  geom_point(alpha=.3) +
   geom_text(check_overlap = TRUE) +
 #  scale_x_log10() +
 #  scale_y_log10() +
@@ -115,8 +114,8 @@ newspaperPages %>%
 
 newspaperPages %>%
   unnest_tokens(word,text,token = "ngrams", n=5) %>%
-  group_by(title,word) %>% 
-  summarize(count=n()) %>% 
+  group_by(title,word) %>%
+  summarize(count=n()) %>%
   spread(title,count,fill=0) %>%
   # filter(LewisburgChronicle >= 1 & VermontPhoenix >= 1) %>%
   View()
@@ -124,8 +123,8 @@ newspaperPages %>%
 
 sharedFiveGrams <- newspaperPages %>%
   unnest_tokens(word,text,token = "ngrams", n=5) %>%
-  group_by(title,word) %>% 
-  summarize(count=n()) %>% 
+  group_by(title,word) %>%
+  summarize(count=n()) %>%
   spread(title,count,fill=0) %>%
   filter(LewisburgChronicle >= 1 & VermontPhoenix >= 1) %>%
   rename(fivegram = word) %>%
