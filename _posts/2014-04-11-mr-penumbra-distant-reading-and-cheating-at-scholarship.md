@@ -1,20 +1,22 @@
 ---
 layout: post
 title: Mr. Penumbra, Distant Reading, and Cheating at Scholarship
-date:   2014-04-11
-description: 
-tags: 
-categories: 
+date: 2014-04-11
+description:
+tags:
+categories:
 permalink: /research/mr-penumbra-distant-reading-and-cheating-at-scholarship/
 ---
 
 <a href="http://www.amazon.com/gp/product/1250037751/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1250037751&amp;linkCode=as2&amp;tag=ryacorsonlhom-20"><img class="alignleft" alt="" src="http://ecx.images-amazon.com/images/I/811wT2-uD8L.jpg" width="211" height="318" /></a>My <a href="http://ryan.cordells.us/s14tot/">Technologies of Text course</a> is capping this semester reading Robin Sloan's novel, <a href="http://www.amazon.com/gp/product/1250037751/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1250037751&amp;linkCode=as2&amp;tag=ryacorsonlhom-20"><em>Mr. Penumbra's 24-Hour Bookstore</em></a>, which Matt Kirschenbaum deemed "the first novel of the digital humanities" last year. <em>Mr. Penumbra</em> is a fine capstone because it thinks through so many of our course themes: the (a)materiality of reading, the book (and database) as physical objects, the relationship between computers and previous generations of information technology, &amp;c. &amp;c. &amp;c. I will try not too spoil much of the book here, but I will of necessity give away some details from the end of the first chapter. So if you've not yet read it: <a href="http://www.amazon.com/gp/product/1250037751/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1250037751&amp;linkCode=as2&amp;tag=ryacorsonlhom-20">go thou and do so</a>.
 
 Rereading the book for class, I was struck by one exchange between the titular Mr. Penumbra—bookstore owner and leader of a group of <em>very</em> close readers—and the narrator, Clay Jannon—a new bookstore employee curious about the odd books the store's odd club members check out. In an attempt to understand what the club members are up to, Clay scans one of the store's logbooks, which records the comings and goings of club members, the titles of the books they checked out, and when they borrowed each one. When he visualizes these exchanges over time within a 3d model of the bookstore itself, visual patterns of borrowing emerge, which seem, when compiled, to reveal an image of a man's face. When Clay shows this visualization to Mr. Penumbra, they have an interesting exchange that ultimately hinges on methodology:<!--more-->
+
 <blockquote>Half-smiling, he holds his glasses at an angle and peers down at the screen. His face goes slack, and then he says, quietly: “The Founder.” He turns to me. “You solved it.” He claps a hand to his forehead and his face splits into a giddy smile. “You solved it already! Look at him! Right there on the screen! [...] “How did you do it?” he continues. He’s so proud, like I’m his grandson and I just hit a home run, or cured cancer. “I must see your notes! Did you use Euler’s method? Or the Brito inversion? There is no shame in that, it clears away much of the confusion early on...”
 
 “Mr. Penumbra,” I say, triumph in my voice, “I scanned an old logbook [...] because Google has this machine, it’s superfast, and Hadoop, it just goes—I mean, a thousand computers, like that!” I snap for emphasis. I don’t think he has any idea what I’m talking about. “Anyway, the point is, we just pulled out the data. Automatically.”</blockquote>
 At first Mr. Penumbra is quiet, but then he responds to Clay's news:
+
 <blockquote>“Oh, yes, I know,” he says sharply, and his eyes flash at me. “I see it now. You cheated—would that be fair to say? And as a result, you have no idea what you have accomplished.”
 
 I look down at the desk. That would be fair to say.

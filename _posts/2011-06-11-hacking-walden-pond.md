@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Hacking Walden Pond
-date:   2011-06-11
-description: 
-tags: 
-categories: 
+title: Hacking Walden Pond
+date: 2011-06-11
+description:
+tags:
+categories:
 permalink: /research/hacking-walden-pond/
 ---
 
@@ -24,4 +24,4 @@ When I teach <em>Walden</em>, I like to hone in on this point with my students. 
 
 This scrutiny is the second thing I want to get at here. Thoreau critically engages with nineteenth-century technology as it relates to education, economy, politics, and society. The best digital humanists also engage critically with twenty-first century technologies. They advocate for technologies that may help us reach new insights—technologies that will promote human and intellectual flourishing—but they do so only after careful critical reflection. Good digital humanists will also critique technologies that distract or even work against human flourishing. This is a small example, perhaps, but on my own campus I try to speak against the college's plans to put smart-boards in every classroom. I think of the tuition money that goes into that investment—the hours of our students' lives, of their parents' lives—and I simply don't believe the technology justifies the investment. I could rant more about smart-boards, but <a href="http://teacherleaders.typepad.com/the_tempered_radical/2010/01/wasting-money-on-whiteboards.html">Bill Ferriter has already said it better</a>. Other digital humanists write about weightier technological issues, from online privacy to our broken copyright system to the institutional silos that hide exciting new digital resources and projects.
 
-I tell my students that <em>Walden</em> can be usefully summarized in three words: "pay attention, people!" One reason I try to re-read <em>Walden</em> each year is to remind myself to pay attention to the technology I buy, use, and advocate. I can be distracted by shiny objects. I like techies stuff a lot. But to be taken seriously as a digital literary scholar—particularly by those colleagues who have a simplistic view of what the digital humanities are—I need to maintain a critical stance toward the tools I use. In my next post I'll get some specifics about such a critical stance, as I talk about whether I see GIS adding to my scholarship or not.  For now, however, I want to close by asserting the possibility of a Thoreauvian digital humanist. Thoreau's contrarian stance toward the academy of his day—we often forget that he wrote <em>Walden</em> as a brash young 'un—resonates strongly with the upstart spirit of the digital humanities. In other words, I think it's possible to be wired while recognizing the wisdom in "simplify, simplify!" Henry David Thoreau might've been a hacker.
+I tell my students that <em>Walden</em> can be usefully summarized in three words: "pay attention, people!" One reason I try to re-read <em>Walden</em> each year is to remind myself to pay attention to the technology I buy, use, and advocate. I can be distracted by shiny objects. I like techies stuff a lot. But to be taken seriously as a digital literary scholar—particularly by those colleagues who have a simplistic view of what the digital humanities are—I need to maintain a critical stance toward the tools I use. In my next post I'll get some specifics about such a critical stance, as I talk about whether I see GIS adding to my scholarship or not. For now, however, I want to close by asserting the possibility of a Thoreauvian digital humanist. Thoreau's contrarian stance toward the academy of his day—we often forget that he wrote <em>Walden</em> as a brash young 'un—resonates strongly with the upstart spirit of the digital humanities. In other words, I think it's possible to be wired while recognizing the wisdom in "simplify, simplify!" Henry David Thoreau might've been a hacker.

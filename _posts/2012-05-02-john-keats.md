@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '&#8220;John Keats, Asked to Type in a Word Verification, Fears That He May Cease to Be&#8221; by Chuck Rybak'
-date:   2012-05-02
-description: 
-tags: 
-categories: 
+title: "&#8220;John Keats, Asked to Type in a Word Verification, Fears That He May Cease to Be&#8221; by Chuck Rybak"
+date: 2012-05-02
+description:
+tags:
+categories:
 permalink: /personal/john-keats/
 ---
 
@@ -13,6 +13,7 @@ Last Thursday <a href="http://www.uwgb.edu/english/faculty/Rybak.asp">Chuck Ryba
 One of Chuck's poems, however, stood out as something the digital humanities community would enjoy. It's a remix of John Keats using CAPTCHA words. The result is absurd but funny and oddly insightful into our lives on the web. I asked Chuck if I could share it, and he generously sent it to me and said to consider it "open source."
 
 I hope you enjoy as much as I did:<br />
+
 <blockquote><strong>John Keats, Asked to Type in a Word Verification, Fears That He May Cease to Be</strong>
 
 When I have fears that I may cease to be

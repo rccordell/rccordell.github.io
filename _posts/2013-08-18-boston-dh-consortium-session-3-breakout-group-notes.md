@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Boston DH Consortium Session #3 Breakout Group Notes'
-date:   2013-08-18
-description: 
-tags: 
-categories: 
+title: "Boston DH Consortium Session #3 Breakout Group Notes"
+date: 2013-08-18
+description:
+tags:
+categories:
 permalink: /teaching/boston-dh-consortium-session-3-breakout-group-notes/
 ---
 

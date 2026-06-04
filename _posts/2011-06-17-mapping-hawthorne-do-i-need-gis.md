@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  'Mapping Hawthorne: Do I Need GIS?'
-date:   2011-06-17
-description: 
-tags: 
-categories: 
+title: "Mapping Hawthorne: Do I Need GIS?"
+date: 2011-06-17
+description:
+tags:
+categories:
 permalink: /research/mapping-hawthorne-do-i-need-gis/
 ---
 

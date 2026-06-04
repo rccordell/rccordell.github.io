@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '&#8216;Q i-jtb the Raven&#8217;: Taking Dirty OCR Seriously'
-date:   2016-01-07
-description: 
-tags: 
-categories: 
+title: "&#8216;Q i-jtb the Raven&#8217;: Taking Dirty OCR Seriously"
+date: 2016-01-07
+description:
+tags:
+categories:
 permalink: /research/qijtb-the-raven-mla/
 ---
 
@@ -13,8 +13,8 @@ permalink: /research/qijtb-the-raven-mla/
 On November 28, 1849 the <a href="chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/"><em>Lewisburg Chronicle, and the West Branch Farmer</em></a> published one of the most popular poems of the nineteenth century, Edgar Allan Poe’s “The Raven.”
 
 <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/" target="_blank"><img src="/img/pasted-image-small-67.png" alt="The November 28, 1849 Lewisburg Chronicle, and the West Branch Farmer" /></a>
-  
-*The November 28, 1849 Lewisburg Chronicle, and the West Branch Farmer*
+
+_The November 28, 1849 Lewisburg Chronicle, and the West Branch Farmer_
 
 The <em>Lewisburg Chronicle</em>’s “Raven” is one version among many printed after Poe’s death in 1849—“By Edgar A. Poe, dec’d”—interesting as a small signal of the poem’s circulation and reception. It is just such reprinting that we are tracing in <a href="http://viraltexts.org">the Viral Texts project</a>, in which we use computational methods to automatically surface patterns of reprinting across nineteenth-century newspaper archives.
 
@@ -23,12 +23,13 @@ And so this version of the poem also becomes interesting as a digitized object i
 Such questions are particularly acute as researchers increasingly leverage digitized archives through computational text and image analysis. As a complement to such analyses we require more robust methods for describing digital artifacts bibliographically: accounting for the sources, technologies, and social realities of their creation in ways that make their affordances and limitations more readily visible and available for critique. Matthew Kirschenbaum has named such practices “forensics,” while Bonnie Mak has suggested “an archaeology that excavates for consideration the discursive practices by which digitizations are produced, circulated, and received.”<a id="fnref:1" class="footnote" title="see footnote" href="#fn:1">[1]</a><a id="fnref:2" class="footnote" title="see footnote" href="#fn:2">[2]</a>
 
 <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr/" target="_blank"><img src="/img/pasted-image-200.png" alt="A sample of the OCR-derived text for “The Raven” in the CA Lewisburg Chronicle, including the line that gives this talk its title." width="100%" /></a>
-  
-*A sample of the OCR-derived text for “The Raven” in the CA Lewisburg Chronicle, including the line that gives this talk its title.*
+
+_A sample of the OCR-derived text for “The Raven” in the CA Lewisburg Chronicle, including the line that gives this talk its title._
 
 Discussions of large-scale digital text archives inevitably return to the question of the OCR-derived text data that underlies them. Depending on the type, age, and conditions of its given historical texts, as well as on the procedures, hardware, and software of their digitization, OCR quality in large-scale archives ranges widely. The consequences of “errorful” OCR files, to borrow a term from computer science, influence our research in ways by now well expounded by humanities scholars, inhibiting, for instance, comprehensive search. Were I to search “Quoth the Raven” in the Chronicling America database, its search engine would not find the line that gives me my title. However, critiques that both begin and end with the imperfections of the digitized text signal a foreshortening of the bibliographic imagination, in which the digital archive can be only a transparent window into the “actual,” material objects of study.
 
 Our primary perspective on the digitized text thus far has been that of the textual critic who is entirely “concerned with…the reconstruction of the author’s original text.” As W. W. Greg contended in 1932, however, “criticism may just as rightly be applied to any other point in the transmission of the text.” For Greg, the bibliographer’s concern must be “the whole history of the text” in which “the author’s original is but one step”—albeit likely an important step—“in the transmission.” Greg describes “the text” not as a single individual, but instead as a lineage:
+
 <blockquote>We have in fact to recognize that a text is…a living organism which in its descent through the ages, while it departs more and more from the form impressed upon it by its original author, exerts, through its imperfections as much as through its perfections, its own influence upon its surroundings.<a id="fnref:3" class="footnote" title="see footnote" href="#fn:3">[3]</a></blockquote>
 In the five decades since its publication, Greg’s notion of the text has significantly influenced work in bibliography, book history, and even critical editing. Theories of the variorium text, the fluid text, and the social text have refined a vocabulary for discussing transmission, circulation, and difference as essential features of any literary work. Scholars have experimented with ways to represent fungible texts both in print, such as <a href="http://www.pearsonhighered.com/educator/product/Moby-Dick-A-Longman-Critical-Edition/9780321228000.page">John Bryant’s “fluid text” edition of <em>Moby-Dick</em></a> (Longman 2009), and using digital tools, such as NINES’ <a href="http://juxtacommons.org/">Juxta Commons collation platform</a>.<a id="fnref:4" class="footnote" title="see footnote" href="#fn:4">[4]</a> While scholars revel in revealing the fluidity of texts from the hand- and machine-press eras, however, we rarely note—except, perhaps, to dismiss them—the variora emerging online. Just as cheap, pirated, and errorful American editions of nineteenth-century British novels now teach scholars much about the economics, print technology, and literary culture in that period, dirty OCR illuminates the priorities, infrastructure, and economics of the academy in the late 20th and early 21st centuries.
 
@@ -164,8 +165,8 @@ This might seem a mundane detail, but I would argue it is just as important to a
 4\. Next, we can learn a few new details from the XML (eXtensible Markup Language) file of this newspaper page. The location of this file is not obvious, though one can find it on the CA website. In short, one must scroll to the bottom of the “Text” file provided in the main menu (where the JPG and PDF can be found) where one finds a link to the XML file.<a id="fnref:14" class="footnote" title="see footnote" href="#fn:14">[14]</a> The <em>Lewisburg Chronicle</em>’s XML file includes important additional metadata about the OCR processing that generated the computable text of this edition.
 
 <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.xml" target="_blank"><img src="/img/pasted-image-734.png" alt="The XML file for this edition of the Lewisburg Chronicle." width="600" /></a>
-  
-*The XML file for this edition of the Lewisburg Chronicle.*
+
+_The XML file for this edition of the Lewisburg Chronicle._
 
 These XML fields show, for instance, that the OCR was performed using the Abbyy Finereader 9 software, with a “Predicted Word Accuracy” of 98.2%.<a id="fnref:15" class="footnote" title="see footnote" href="#fn:15">[15]</a>
 
@@ -176,8 +177,8 @@ I would assert that the digitized edition of the November 28, 1849 <em>Lewisburg
 The details gleaned from these files, however, are only one part of a full bibliographic account, which should also concern itself with the institutional, financial, social, and governmental structures that lead one historical textual object to be digitized, while another is not. In Ian Milligan’s study of newspapers cited in Canadian dissertations, he demonstrates quantitatively that overall citations of newspapers have increased in “the post-database period,” but also that those citations draw ever more disproportionately from those papers which have been digitized over those which have not: “Before digitization, a newspaper like the Ottawa Citizen was roughly equivalent in historical usage to the Toronto Star, as one might expect, given their relative prominence in Canadian history. After the Star was digitized and made available, however, it became far more prominent” in dissertations.<a id="fnref:17" class="footnote" title="see footnote" href="#fn:17">[17]</a> In other words, decisions about what to digitize ripple throughout the scholarly record from then on, a phenomenon we should mark in scholarship drawn from digitized texts.
 
 <a href="/img/pasted-image-1152.jpg" target="_blank"><img src="/img/pasted-image-1152.jpg" alt="A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen." width="600" /></a>
-  
-*A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen.*
+
+_A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen._
 
 In the case of the <em>Lewisburg Chronicle</em>, understanding the decisions that led to its digitization requires delving into a range of paratexts related to the United States’ National Digital Newspaper Project (NDNP) and its grantees. By mentioning the NDNP, I highlight an essential bibliographic fact about the Chronicling America database. CA is not a single digitization project run by the Library of Congress, but the portal to data generated by the NDNP, which awards grants to groups in individual states seeking to digitize their historical newspapers. Such state-level granting, however, means that some states are well represented, others less so, while many are not represented at all. For instance, my home state of Massachusetts has not yet participated in the NDNP, meaning that CA includes no papers from Boston or other Massachusetts towns. This also means that measures of newspapers’ significance vary from state to state. In their applications for NDNP funding, groups must articulate a rationale for choosing “historically significant newspapers” from their state. While these rationales share many features, they are not identical.<a id="fnref:18" class="footnote" title="see footnote" href="#fn:18">[18]</a>
 
@@ -194,14 +195,15 @@ Over their three rounds of funding, then, Penn State sought to digitize newspape
 Phase II’s blog includes <a href="http://www.personal.psu.edu/kkm111/blogs/padnp2/graphs.html">a graph</a> and <a href="http://www.personal.psu.edu/kkm111/blogs/padnp2/maps.html">map</a> outlining the state of newspaper digitization in Pennsylvania at the time of that work.
 
 <a href="/img/Map_Free-Paid-Digitized-Newspaper-Coverage-in-PA-by-County-958.jpg" target="_blank"><img src="/img/Map_Free-Paid-Digitized-Newspaper-Coverage-in-PA-by-County-958.jpg" alt="Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program." width="600" /></a>
-  
-*Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program.*
+
+_Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program._
 
 The <em>Lewisburg Chronicle, and the West Branch Farmer</em> was scanned in Phase II because Union County had been ignored by previous efforts, both public and commercial. Reading the narrative about the <em>Lewisburg Chronicle</em>, prepared for the PaNDP and now provided on CA, we understand that the paper was chosen among those published in Union Country because of its stability, as “At least eight early Lewisburg weeklies came and went between 1824 and 1842” before the <em>Chronicle</em> brought a regular publication to the county.<a id="fnref:21" class="footnote" title="see footnote" href="#fn:21">[21]</a>
 
 I cite these details neither to defend nor deride the choices made by PaDNP. Given finite time and resources, any mass digitization effort must privilege certain features from all possible corpora over others. But understanding these choices is essential for researchers building arguments, computational or otherwise, from CA or its subsidiary archives. An understanding of the corpus’s outlines and the technical composition of its materials allows us to qualify the claims we make using CA while benefiting from the remarkable possibilities of access, comparison, or analytical scale enabled by digitization. Beginning from the specific example of the <em>Lewisburg Weekly</em> helps illustrate how the constitution and provenance of digitized archives are, to some extent at least, knowable and describable. Just as details of type, ink, or paper—or paratext such as printer’s records—can help us establish the histories under which a printed book was created, details of format, interface, and even grant proposals can help us establish the histories of corpora created under conditions of mass digitization.
 
 Acknowledging digitized historical texts as new editions is an important step, I would argue, to developing media-specific approaches to the digital that more effectively exploit its affordances; more responsibly represent the material, social, and economic circumstances of its production; and more carefully delineate with its limitations. To put it more bluntly, I worry that when we treat the digitized object primarily as a surrogate for its analog original, we jettison the best features of both modes. Few researchers have remediated their methodologies toward the digital archive’s unique affordances for pattern detection across vast fields. We largely haven’t learned how to ask pressing humanities questions best answered through computational means. That, I would argue, is the primary challenge facing media historians in our moment—not a technical challenge, but a challenge of imagination.
+
 <div class="footnotes">
 
 <hr />

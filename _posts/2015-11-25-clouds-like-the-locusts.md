@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Clouds Like the Locusts
-date:   2015-11-25
-description: 
-tags: 
-categories: 
+date: 2015-11-25
+description:
+tags:
+categories:
 permalink: /research/clouds-like-the-locusts/
 ---
 

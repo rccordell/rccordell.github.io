@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Updated for 2013: Creating an Online Professional Presence Storify'
-date:   2013-11-01
-description: 
-tags: 
-categories: 
+title: "Updated for 2013: Creating an Online Professional Presence Storify"
+date: 2013-11-01
+description:
+tags:
+categories:
 permalink: /graduate-school/updated-for-2013-creating-an-online-professional-presence-storify/
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'MLA 2012 Presentation: &#8220;Mapping the Antebellum Culture of Reprinting&#8221;'
-date:   2012-01-07
-description: 
-tags: 
-categories: 
+title: "MLA 2012 Presentation: &#8220;Mapping the Antebellum Culture of Reprinting&#8221;"
+date: 2012-01-07
+description:
+tags:
+categories:
 permalink: /research/mla/mla-2012-presentation-mapping-the-antebellum-culture-of-reprinting/
 ---
 
@@ -160,8 +160,6 @@ When we map multiple textual histories, GIS allows us to make direct comparisons
 We can, for instance, compare the “circles of influence” of both stories. Though scholars know the print history of “The Raven” much better than that of “The Celestial Railroad,” we can see—with all the caveats I offered earlier—that the latter had the potential to reach 400,000 more Americans during this time period. Perhaps we know the history of “The Raven” because it appeared primarily in literary magazines and secular newspapers, while “The Celestial Railroad” appear primarily in religious publications. We can see, however, that both texts had a similarly wide reach across the American landscape.
 
 <strong>[slide 42 - timelapse video]</strong>
-
-
 
 To really flesh out our picture of print culture in the 1840s and 50s, we need even more textual histories to compare. Right now I’m working with colleagues in the ARTFL project at the University of Chicago, who have developed a tool for automatically discovering reused snippets of text in digital archives. We plan to use this tool with nineteenth-century periodicals archives to rapidly discover histories of reprinting like that of “The Celestial Railroad” or “The Raven.” If we can compare not two print histories, but two hundred, we can really begin to define the network of nineteenth-century print culture. We can see what kinds of texts most frequently moved through the network (or moved the farthest). We can see which publications shaped the network—whose articles were most frequently reprinted. We can ask whether religious and secular texts circulated differently—where did religious and secular print networks converge? Where did they diverge? And we can use census and other data to evaluate how the print culture network aligned with other political and social forces.
 

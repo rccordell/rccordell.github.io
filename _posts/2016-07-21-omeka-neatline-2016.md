@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Omeka-Neatline Workshop 2016
-date:   2016-07-21
-description: 
-tags: 
-categories: 
+date: 2016-07-21
+description:
+tags:
+categories:
 permalink: /teaching/workshops/omeka-neatline-2016/
 ---
 
-
 Today we'll be learning the following. I've outlined a rough schedule just below this paragraph, but it will vary depending on both human and technical variables. At any stage, feel free to let me know whether we should slow down, speed up, define, redefine, and so forth. I want to make sure you come away confident in your ability to use Omeka and (just as important!) to teach students to use Omeka. I'm just fine with detours, so long as they contribute to your projects and your teaching.<!--more-->
-
 
 <ol>
  	<li>Introductions [10:30-10:45]</li>

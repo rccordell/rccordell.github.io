@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'MLA13 Digital Roundtable: &#8220;How I Got Started in Digital Humanities: A Roundtable of New DH Projects from DHCommons&#8221;'
-date:   2012-05-15
-description: 
-tags: 
-categories: 
+title: "MLA13 Digital Roundtable: &#8220;How I Got Started in Digital Humanities: A Roundtable of New DH Projects from DHCommons&#8221;"
+date: 2012-05-15
+description:
+tags:
+categories:
 permalink: /research/mla/mla13-digital-roundtable/
 ---
-
 
 <p>Today I received notice that the panel below has been accepted for <a href="http://www.mla.org/convention">MLA 2013 in Boston</a>. I can't wait to host participants from last year's "Getting Started in Digital Humanities" preconvention workshop, who will share their early projects-in-progress with the convention. Here are the details:</p>
 
 <strong>Short description:</strong>
 
 This digital roundtable aims to give insight into challenges and opportunities for new digital humanists. Rather than presenting polished projects, panelists will share their experiences as developing DH practitioners working through research and pedagogical obstacles. Each participant will present brief “lightning talks” and then discuss their projects in more detail at individual tables.
+
 <!--more-->
 
 <strong>Full description:</strong>
 
-This diverse digital roundtable will build on the <a href="http://dhcommons.org/mla2012">“Getting Started in Digital Humanities with Help from DHCommons” pre-convention workshop at the 2012 Modern Language Convention in Seattle</a>. Participants from that workshop will present the digital projects they began or developed there. Often digital humanities (DH) scholars wait to present their projects at conferences until they are well underway. The results of advanced projects are more likely to compel excitement than the hypotheses of nascent ones. However, this practice can alienate scholars unfamiliar with digital methodologies, for whom the advanced digital project can seem an unattainable edifice. 
+This diverse digital roundtable will build on the <a href="http://dhcommons.org/mla2012">“Getting Started in Digital Humanities with Help from DHCommons” pre-convention workshop at the 2012 Modern Language Convention in Seattle</a>. Participants from that workshop will present the digital projects they began or developed there. Often digital humanities (DH) scholars wait to present their projects at conferences until they are well underway. The results of advanced projects are more likely to compel excitement than the hypotheses of nascent ones. However, this practice can alienate scholars unfamiliar with digital methodologies, for whom the advanced digital project can seem an unattainable edifice.
 
 This roundtable, by contrast, aims to give uninitiated audience members insight into the challenges and opportunities of new digital projects and offers practical advice about planning and launching new DH projects. Panelists will share their experiences as developing DH practitioners working through research and pedagogical obstacles and solicit feedback on their developing projects.
 
 Presiders: Ryan Cordell (Northeastern University) and Kate Singer (Mount Holyoke College)
-Presenters:	
+Presenters:
+
 <ol>
 <li>"The Importance of Digital Video," Alexander Huang, The George Washington University
 Online digital video is being tapped as a research and pedagogic resource, marketing tool, and an art form with a symbiotic relationship with the stage. In fact, video is now the core of virtual environments, websites associated with theatre companies, and a small but rich array of scholarly digital archives. What are the digital video’s functions in DH projects? How can those functions be best facilitated in humanistic fields when the disciplinary dichotomy of boundary between text (printed or virtual) and other media is blurred by an increasing synergy between them? My short talk analyses the implications of digital video in current and future scholarly and pedagogic practices. While recent scholarship has begun to address literature's place in the new media and digital culture, it has not fully engaged the digital video archive’s impact on the field due in part to a continued interest in new textualities in 'the late age of print'.</li><br> 
@@ -42,32 +43,24 @@ This presentation reflects on what has transpired in Cibola, a virtual space dev
 </ol>
 
 <strong>Bios:</strong>
+
 <ul>
 <li>Ryan Cordell is Assistant Professor of English at Northeastern University. Cordell has published on Nathaniel Hawthorne, Harriet Beecher Stowe, and James Fenimore Cooper, as well as on topics in the digital humanities. Cordell serves on NITLE’s Digital Humanities Council and is a founding board member for <a href="http://www.dhcommons.org">DHCommons</a>, a hub for helping digital humanists find collaborators for their projects. Cordell also writes for <a href="http://chronicle.com/blogs/profhacker/author/rcordell">the group blog <em>ProfHacker</em></a>.</li> <br>
 
-
 <li>Kate Singer is Assistant Professor of English at Mount Holyoke College. Singer also serves as editor of <a href="http://www.rc.umd.edu/pedagogies/pedagogies_blog/?cat=9">Romantic Circle’s Pedagogies section</a>.  She is currently at work on a project about women’s poetry, epistemology, and skepticism entitled <em>Against Sensibility:  Romantic Vacancy, British Women’s Poetry, and the Figures of Skepticism</em>.</li><br>
-
 
 <li>Alex Huang is Director of the Dean's Scholars in Shakespeare Program and Associate Professor of English at George Washington University where he is affiliated with the Medieval and Early Modern Studies Institute. He has published on digital humanities in Shakespeare Survey, Education about Asia, Asian Theatre Journal, and other venues and collections, and co-founded (with Peter Donaldson) of <a href="http://globalshakespeares.org/">Global Shakespeares</a> and <a href="http://web.mit.edu/shakespeare/asia/">Shakespeare Performance in Asia</a>. He is also performance editor of the <a href="http://internetshakespeare.uvic.ca/">Internet Shakespeare Editions</a> (founded in 1996), chair of the MLA committee on the New Variorum Edition of Shakespeare, and general editor of the Shakespearean International Yearbook. His book Chinese Shakespeares: Two Centuries of Cultural Exchange (Columbia University Press) received the MLA's Aldo and Jeanne Scaglione Prize and an honorable mention of New York University's Joe A. Callaway Prize for the Best Book on Drama or Theatre.</li><br>
 
-
 <li>Sheila T. Cavanagh received her Ph.D. from Brown University and is the author of Cherished Torment: The Emotional Geography of Lady Mary Wroth's Urania (Duquesne, 2001) and Wanton Eyes and Chaste Desires: Female Sexuality in The Faerie Queene (Indiana, 1994) and numerous articles on Renaissance literature and pedagogy. She is the Director of the Emory Women Writers Resource Project.</li> <br>
-
 
 <li>Kevin Quarmby is a scholar and actor who has written extensively on Shakespeare and early modern drama. He resides in the U.K., where he teaches at several London institutions specializing in American study abroad programs, and by invitation at Oxford and Cambridge. He is also a Globe Education Lecturer at Shakespeare’s Globe Theatre in London.</li><br>
 
-
 <li>Matthew Schultz is a literary and cultural historian of 20th century Ireland. He received his B.A. and M.A. in English Literature from John Carroll University, and his Ph.D. in English Literature from Saint Louis University. His work on Irish literary history has appeared in publications such as James Joyce Quarterly, Literature and Aesthetics, Postcolonial Text, and Hypermedia Joyce Studies. He has spoken at over a dozen regional and national academic conferences in the US and Ireland, including meetings of the Modern Language Association and the American Conference for Irish Studies. He currently teaches modern Irish and British literature at Vassar College where he is also the director of the Writing Center.</li><br>
-
 
 <li>Gert Buelens is a professor of English at Ghent University. He holds degrees from the University of Sussex (DPhil, 1990) and Ghent (Lic. English and German, 1984; Teacher training, 1985), and was a visiting scholar at Harvard in 1996-1997. He has published several books on Henry James, multi-ethnic American literature, and cultural theory, and is the author of some sixty essays in collections and journals. He is a past president (2005) of the Henry James Society and is vice-president of the Belgian Luxembourg American Studies Association.</li><br>
 
-
 <li>Gabriel Hankins is project manager for the <a href="http://dhcommons.org/projects/mapping-modernism-modernist-letters-project">Modernist Letters Project</a>, a Ph.D candidate in English Literature, and Digital Humanities Graduate Fellow at the University of Virginia.  He work on spatial visualizations of literary history and epistolary exchange, as well as structures of international governance between the world wars.</li><br>
 
-
 <li>Lynn Ramey is associate professor of French and chair of the department of French and Italian at Vanderbilt University.  Her publications explore verbal representations of moments of cultural contact, particularly the Crusades and travel to the New World. As coordinator of the Discoveries of the Americas project, she is looking for alternate ways to communicate the experience of pre-modern global travel and encounter.</li><br>
-
 
 <li>Malcolm Alan Compitello is Professor of Spanish and Head of the Department of Spanish and Portuguese at the University of Arizona. He has been President of the ADFL is the Executive Editor of the Arizona Journal of Hispanic Cultural Studies. Compitello has been deeply engaged in thinking about the nature of disciplinary boundaries in the undergraduate and graduate programs in Humanities. His interest iin the relationship between real spaces and their representation in the imaginaries of cultural creators issues from a broad interest in Hispanic cultural studies and his scholarship in this area has appeared in professional publications around the world. Recently this interest in real and imagined spaces has led him to explore the potential of virtual reality for teaching and research about this field. The Cibola project partially funded by the University of Arizona's Title VI Center in Latin American Studies has created virtual creations of real cultural spaces in the Hispanic world as a space to work out theoretical concerns about the relationships between the real and the imaginary and to test how virtual reality can expand the educational exchange.</li></ul>

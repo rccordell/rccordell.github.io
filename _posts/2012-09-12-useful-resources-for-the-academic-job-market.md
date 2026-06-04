@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Useful Resources for the Academic Job Market
-date:   2012-09-12
-description: 
-tags: 
-categories: 
+date: 2012-09-12
+description:
+tags:
+categories:
 permalink: /graduate-school/useful-resources-for-the-academic-job-market/
 ---
 
 Later today I'll join a workshop for graduate students in <a href="http://www.northeastern.edu/english/graduate/">Northeastern University's English Graduate Program</a> who are making (or considering) a run on the job market. As a recent survivor of the market I hope I can offer some insight into its quirks and vicissitudes. To that end—and with the help of several colleagues on Twitter—I've compiled a list of useful articles for students embarking on the academic job search.
+
 <ul>
 	<li>Brian Croxall's <a href="http://chronicle.com/blogs/profhacker/preparing-now-for-next-years-job-market/24065">"Preparing Now for Next Year's Job Market"</a> is pitched as a help for students preparing over the summer. Even with summer now gone, however, the post provides a useful summary of most materials students will need for academic job applications.</li>
 	<li>Thanks to <a href="https://twitter.com/TravisMFoster/statuses/245868041110441986">Travis Foster</a> for pointing my attention to William H. Wandless' practical, detailed, and insightful posts about the job application process: "The Academic Job Market: English Search Advice" <a href="http://williamhwandless.wordpress.com/2008/10/25/the-academic-job-market-english-search-advice-part-i/">Part I</a>, <a href="http://williamhwandless.wordpress.com/2008/10/29/the-academic-job-market-english-search-advice-part-ii/">Part II</a>, and <a href="http://williamhwandless.wordpress.com/2008/10/31/the-academic-job-market-english-search-advice-part-iii/">Part III</a>.</li><!--more-->
@@ -21,4 +22,4 @@ Later today I'll join a workshop for graduate students in <a href="http://www.no
 	<li>And of course, no post about the job market would be complete without pointing students toward <a href="http://mediacommons.futureofthebook.org/alt-ac/">#alt-academy</a>. #alt-academy is an excellent guide to pursuing academic careers outside of the professoriat. The #altac community is very active on Twitter, and students interested in #altac jobs should follow the hashtag at <a href="http://twitter.com/#!/search/%23altac">http://twitter.com/#!/search/%23altac</a> for job announcements, #altac related articles, and other resources for #altac professionals.</li>
 	<li>More broadly, <a href="https://twitter.com/jmittell/statuses/245882504618340353">Jason Mittell recommended</a> <a href="http://sterneworks.org/academe/">this roundup of posts written or curated by Jonathan Sterne</a> about many practical aspects of academic careers. These posts include advice on the job market, transitioning between stages of an academic career, writing the first book, and so on.</li>
 </ul>
-If you can suggest other resources for graduate students braving the job market, please contribute in the comments. 
+If you can suggest other resources for graduate students braving the job market, please contribute in the comments.

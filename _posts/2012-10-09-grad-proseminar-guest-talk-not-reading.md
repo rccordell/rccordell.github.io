@@ -1,19 +1,21 @@
 ---
 layout: post
-title: 'Grad Proseminar Guest Talk: Not Reading'
-date:   2012-10-09
-description: 
-tags: 
-categories: 
+title: "Grad Proseminar Guest Talk: Not Reading"
+date: 2012-10-09
+description:
+tags:
+categories:
 permalink: /personal/grad-proseminar-guest-talk-not-reading/
 ---
 
 The idea for this activity was stolen from my colleague <a href="http://english.fsu.edu/faculty/pfyfe.htm">Paul Fyfe</a> of Florida State University; I first saw Prof. Fyfe present his assignment at MLA 2012. Prof. Fyfe describes his version of the assignment in <a href="http://www.tandfonline.com/doi/abs/10.1080/13555502.2011.554678">"How Not to Read a Victorian Novel,"</a> <em>Journal of Victorian Culture</em> 16, no. 1 (April 2011). Here's how Paul introduces the assignment for his students:
+
 <blockquote>Franco Moretti was dissatisfied with how literary scholars accept just a handful of possible texts as representative of cultural eras. Even if those texts are diverse and interesting, how can they possibly represent broader trends at scale? Moretti wants to change our sense of literary history by enlarging it, or by increasing our critical distance from it. He coined the phrase “distant reading” as an approach to analyzing lots and lots of texts instead of an unrepresentative few. Distant reading uses other modes of analysis and models of interpretation than the “close reading” we are familiar with. In his own work, Moretti compiles textual information from lots and lots of novels into maps, graphs, and logical trees. Seen this way, texts can reveal new patterns and language trends than we could otherwise discover close up. An array of digital visualization and text analysis tools now make Moretti’s methods more accessible to the casual user. The first paper will be an experiment in using these tools. We will consider “distance” not only as the subject of our course but also as a potential mode of reading and interpretation. What does literary criticism and analysis look like if we accept distance “as a condition of knowledge”?
 
 Distance is a pretty good approach to the Victorian novel, considering that 40,000+ books of prose fiction were published in the last two-thirds of the nineteenth century. No one can read them all. But perhaps we can learn how <em>to not read</em> them. As Moretti and others have demonstrated, digital technology provides lots of interesting ways of doing this. Using some selected tools, you will analyze a big Victorian novel and then write a paper explaining your questions and insights. There’s one catch: it has to be a book you have never read.
 
 English classes more typically emphasize close reading than “not reading.” This exercise will be new to many of you. So will the technology and the interfaces. The paper requires thinking about texts in a very different way than you might be used to. There may be dead ends; on the other hand, there will be no wrong answers. This preludes two important points:
+
 <ul>
 	<li>Play. Experiment. This assignment is as much about testing the methods as it is learning about the text. The goal here is not to reconstruct a missing story, but to “read” the novel in a fundamentally different way, and to think about the implications of doing so.</li>
 	<li>Ask for help. Please don’t struggle with the technology, or tear hair in confusion about the assignment. Visit my office hours or email for an appointment if you’d like to go over this, work out a problem, or discuss how to talk about your results.</li>
@@ -24,6 +26,7 @@ Ready to get started?</blockquote><br />
 Okay&mdash;got all that? Here's how we'll be engaging in the kinds of experimentation and play that Prof. Fyfe describes in today's proseminar:
 
 &nbsp;
+
 <ol>
 	<li>
 <h3>Choose a work to not read.</h3><br />

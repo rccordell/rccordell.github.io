@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '&#8220;How Not to Teach Digital Humanities&#8221; Keynote, Freedman Center for Digital Scholarship Pedagogy and Practices Colloquium'
-date:   2014-11-07
-description: 
-tags: 
-categories: 
+title: "&#8220;How Not to Teach Digital Humanities&#8221; Keynote, Freedman Center for Digital Scholarship Pedagogy and Practices Colloquium"
+date: 2014-11-07
+description:
+tags:
+categories:
 permalink: /research/freedman-colloquium/
 ---
 

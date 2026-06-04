@@ -47,11 +47,9 @@ if (window.hljs) {
 }
 </script>
 
-
 </head>
 
 <body>
-
 
 <div class="container-fluid main-container">
 
@@ -63,7 +61,6 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
-
 
 <p>Many of my classes, particularly my graduate <a href="http://s17hda.ryancordell.org/">Humanities Data Analysis</a> course, introduce students to humanistic applications of text and data analysis. One of the greatest challenges for preparing these classes has been finding or creating useful humanities data sets to analyze: small and manageable enough to work with in the space of a class session, but complex enough to yield results that will help students see the potential for data analyses in relation to research questions they want to answer. Learning <a href="http://r4ds.had.co.nz/exploratory-data-analysis.html">exploratory data analysis</a>, for instance, requires tabular data that can be queried and transformed. In the past I’ve followed the lead of Lincoln Mullen and Ben Schmidt and used census data for these particular lessons: it’s easy to see how investigating and visualizing these historical records might yield insights pertinent to humanities work, and there are enough categories to give us room to explore.</p>
 <p>In looking for a second option for those classes, however, I found myself experimenting with the Library of Congress’ <a href="https://chroniclingamerica.loc.gov/search/titles/">U.S. Newspaper Directory</a>, which lists all the papers the LoC knows of from 1690 to the present, including basic metadata for each, such as when a given paper was founded and when it ended. In some ways this metadata can be misleading, or at least can highlight the different priorities of library catalogers and humanities researchers. For instance, the LoC creates a new catalog entry each time a newspaper changes its name, even slightly—and newspapers in the nineteenth century changed their names <em>all the time</em>. These name changes can signal a new editor, a merger of two papers (or a schism of one), a switch in political affiliation—or they can signal simply that the name was changed to something more current or locally salient. These shifts can be meaningful, but often are not essentially so for a researcher interested in the dynamics of a particular paper over time. In our attempts to map networks of information exchange during the period, for instance, we have found the division of papers into so many distinct units unhelpful, as the network dynamics of a particlar paper often persist through small name changes. Thus we have experimented with various ways of inferring newspaper “families” under which we can group related papers for the purposes of network analysis and related methods.</p>
@@ -96,18 +93,18 @@ papers &lt;- read_csv(&quot;./data/US-Newspapers.csv&quot;) %&gt;%
 <pre class="r"><code># create a small manual list of stopwords
 
 stopWords &lt;- as_data_frame(c(&quot;the&quot;, &quot;an&quot;, &quot;and&quot;, &quot;der&quot;,
-                             &quot;die&quot;, &quot;das&quot;, &quot;und&quot;, &quot;of&quot;,
-                             &quot;in&quot;,&quot;aus&quot;,&quot;dem&quot;,&quot;or&quot;)) %&gt;%
-  rename(word = value)
-
+&quot;die&quot;, &quot;das&quot;, &quot;und&quot;, &quot;of&quot;,
+&quot;in&quot;,&quot;aus&quot;,&quot;dem&quot;,&quot;or&quot;)) %&gt;%
+rename(word = value)
 
 titleWords &lt;- papers %&gt;%
-  unnest_tokens(word, title) %&gt;%
-  anti_join(stopWords) %&gt;%
-  group_by(startDecade, word) %&gt;%
-  summarize(count = n()) %&gt;%
-  arrange(startDecade,desc(count)) %&gt;%
-  top_n(10)</code></pre>
+unnest_tokens(word, title) %&gt;%
+anti_join(stopWords) %&gt;%
+group_by(startDecade, word) %&gt;%
+summarize(count = n()) %&gt;%
+arrange(startDecade,desc(count)) %&gt;%
+top_n(10)</code></pre>
+
 <pre><code>## Joining, by = &quot;word&quot;</code></pre>
 <pre><code>## Selecting by count</code></pre>
 <pre class="r"><code>titleWords</code></pre>
@@ -142,28 +139,29 @@ newPapers &lt;- papers %&gt;%
   summarise(newPapers = n())
 
 titleWords &lt;- titleWords %&gt;%
-  left_join(newPapers, by = &quot;startDecade&quot;) %&gt;%
-  mutate(percentage = count/newPapers) %&gt;%
-  arrange(startDecade, desc(percentage))
+left_join(newPapers, by = &quot;startDecade&quot;) %&gt;%
+mutate(percentage = count/newPapers) %&gt;%
+arrange(startDecade, desc(percentage))
 
 plot &lt;- ggplot(titleWords %&gt;%
-                 filter(startDecade &gt;= 1800 &amp; startDecade &lt;= 1950) %&gt;%
-                 top_n(5) %&gt;%
-                 filter(percentage &gt;= .02)) +
-  aes(x=startDecade, y=percentage, color = word) +
-  geom_line() +
-  geom_point(size = .3) +
-  ggtitle(&quot;Most Used Words in New Newspaper Titles by Decade, 1800-1950&quot;) +
-  labs(x=&quot;Decades&quot;,y=&quot;Percentage of Titles&quot;,fill=&quot;Word&quot;,caption=&quot;The top words used in the titles of new newspapers during the nineteenth century by decade&quot;) +
-  theme(plot.title = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, face=&quot;bold&quot;, size=18, hjust=0.5)) +
-  theme(axis.title = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, face=&quot;bold&quot;, size=14)) +
-  theme(legend.title = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, face=&quot;bold&quot;, size=14)) +
-  theme(legend.background = element_rect(color = &quot;#efefef&quot;)) +
-  theme(plot.caption = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, size=10, hjust = 0.5, margin = margin(15, 0, 15, 0))) +
-  theme(axis.text = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#aaaaaa&quot;, face=&quot;bold&quot;, size=10)) +
-  theme(panel.background = element_rect(fill = &quot;white&quot;)) +
-  theme(panel.grid.major = element_line(color = &quot;#efefef&quot;)) +
-  theme(axis.ticks = element_line(color = &quot;#efefef&quot;))</code></pre>
+filter(startDecade &gt;= 1800 &amp; startDecade &lt;= 1950) %&gt;%
+top_n(5) %&gt;%
+filter(percentage &gt;= .02)) +
+aes(x=startDecade, y=percentage, color = word) +
+geom_line() +
+geom_point(size = .3) +
+ggtitle(&quot;Most Used Words in New Newspaper Titles by Decade, 1800-1950&quot;) +
+labs(x=&quot;Decades&quot;,y=&quot;Percentage of Titles&quot;,fill=&quot;Word&quot;,caption=&quot;The top words used in the titles of new newspapers during the nineteenth century by decade&quot;) +
+theme(plot.title = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, face=&quot;bold&quot;, size=18, hjust=0.5)) +
+theme(axis.title = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, face=&quot;bold&quot;, size=14)) +
+theme(legend.title = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, face=&quot;bold&quot;, size=14)) +
+theme(legend.background = element_rect(color = &quot;#efefef&quot;)) +
+theme(plot.caption = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#666666&quot;, size=10, hjust = 0.5, margin = margin(15, 0, 15, 0))) +
+theme(axis.text = element_text(family = &quot;Trebuchet MS&quot;, color=&quot;#aaaaaa&quot;, face=&quot;bold&quot;, size=10)) +
+theme(panel.background = element_rect(fill = &quot;white&quot;)) +
+theme(panel.grid.major = element_line(color = &quot;#efefef&quot;)) +
+theme(axis.ticks = element_line(color = &quot;#efefef&quot;))</code></pre>
+
 <pre><code>## Selecting by newPapers</code></pre>
 <pre class="r"><code>ggplotly(plot)</code></pre>
 <pre><code>## We recommend that you use the dev version of ggplot2 with `ggplotly()`
@@ -174,9 +172,6 @@ plot &lt;- ggplot(titleWords %&gt;%
 <p>Around 1850 we see the simultaneous rise of “weekly” and “daily” in the title words of new papers. This is not because papers were weekly and became daily—that progressivist narrative would make sense on its face but does not describe the messier reality—but because the range of newspaper formats and frequencies exploded during the period, and particularly after the introduction of wood pulp paper and the steam press, largely in the 1840s. Many urban papers started printing daily <strong>and</strong> weekly editions (which are listed in the LoC’s directory as separate papers) while others began incorporating their frequencies into their titles. Less obvious in the graph, but an important part of this same trend, is “evening,” which rises into the top title words in the 1850s. Primarily in urban centers, some papers began printing morning and evening editions, with the evening edition most often marked in the title. These temporal words in titles then, point to the shifting temporalities of the newspaper medium around the middle of the century, as well as to quirks in the LoCs data that treats morning, evening, daily, or weekly editions of the same newspaper as separate, though linked, entities in its newspaper data.</p>
 <p>Most striking in the graph, is the steep rise of “news” as a word used in the titles of newspapers; it appears in 1840 and is used in more than 10% of new papers titles in the decade 1900-1910, and more than 20% of new titles in the 1940s. I won’t comment on the twentieth century, but this rise at the end of the nineteenth is striking in an of itself. To close this post, I’ll read a bit farther into the growth of “news” than the evidence likely warrants. In brief, however, the latter half of the nineteenth century sees newspapers moving, first gradually and then rapidly, away from explicit partisan alignment and toward what we would recogize as an ideal of journalistic impartiality. That move is coupled with increased striving toward objectivity in reporting. As scholars such as <em>Viral Texts</em> RA <a href="http://jonathandfitzgerald.com">Jonathan Fitzgerald</a> have shown, these ideals of impartiality and objectivity were often more rhetorical than real, but they were nonetheless increasingly valued as ideals as the century progressed.</p>
 <p>The names of new newspapers are one place those journalistic ideals are expressed and codified. By using the relatively neutral “news” in their titles, editors signaled that their papers carried neither partisan politicking nor sensational humbug, but instead unpretending reports of what happened. This claim is subtle, embedded in a small word, but its growing appeal over nearly a century testifies to its perceived effectiveness.</p>
-
-
-
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Omeka/Neatline Workshop Agenda and Links
-date:   2014-04-03
-description: 
-tags: 
-categories: 
+date: 2014-04-03
+description:
+tags:
+categories:
 permalink: /research/spatial-humanities/omekaneatline-workshop/
 ---
 
@@ -30,7 +30,6 @@ permalink: /research/spatial-humanities/omekaneatline-workshop/
 <em>3:15-3:45</em> Group practice creating Neatline exhibits
 <em>3:45-4:00</em> Final questions, concerns
 <em>4:00-5:00</em> Unstructured work time
-
 
 <h2>Sample Item Resources</h2>
 <ul>

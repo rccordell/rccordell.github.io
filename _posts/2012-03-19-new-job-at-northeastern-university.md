@@ -1,10 +1,10 @@
 ---
 layout: post
 title: New job at Northeastern University
-date:   2012-03-19
-description: 
-tags: 
-categories: 
+date: 2012-03-19
+description:
+tags:
+categories:
 permalink: /personal/new-job-at-northeastern-university/
 ---
 

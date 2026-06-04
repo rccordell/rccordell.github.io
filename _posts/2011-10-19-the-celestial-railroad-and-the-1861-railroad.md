@@ -1,10 +1,10 @@
 ---
 layout: post
 title: “The Celestial Railroad” and the 1861 Railroad
-date:   2011-10-19
-description: 
-tags: 
-categories: 
+date: 2011-10-19
+description:
+tags:
+categories:
 permalink: /research/the-celestial-railroad-and-the-1861-railroad/
 ---
 
@@ -15,6 +15,7 @@ At this January’s MLA Convention, I’ll be presenting on <a href="http://text
 So I was thrilled this past week to read William G. Thomas’ talk, “<a href="http://railroads.unl.edu/blog/?p=616">What We Think We Will Build and What We Build in Digital Humanities</a>,” from this year’s Nebraska Digital Workshop, and to learn from the talk about Thomas’ project, <a href="http://railroads.unl.edu/">Railroads and the Making of Modern America</a>. The project itself is fascinating, and I immediately wondered if some of their data might help me investigate the circulation of “The Celestial Railroad.” I’ve suspected for awhile that Hawthorne’s tale—which satirizes uncritical modernizing through the central image of a railroad—ironically may have spread around the country through the railroad system.<!--more-->
 
 The historical map <a href="http://blog.celestialrailroad.org/2011/08/mapping-hawthorne-do-i-need-gis/">that I georeferenced at DHSI</a> seemed to bear this conclusion out. On the Railroads and the Making of Modern America site, however, I was able to download a KML that more precisely charts <a href="http://railroads.unl.edu/shared/resources/1861_Railroad.kml">the 1861 railroad system in America</a>. I used ArcGIS to convert this KML to a shapefile, and then imported that shapefile into my “Celestial Railroad” map. The results were exciting:
+
 <div id="attachment_159" class="wp-caption aligncenter" style="width: 310px"><a href="http://dl.dropbox.com/u/492930/CRR_railroad_map.jpg"><img class="size-medium wp-image-159" title="CRR_railroad_map" src="http://blog.celestialrailroad.org/wp-content/uploads/2011/10/CRR_railroad_map-300x137.jpg" alt="" width="300" height="137" /></a>
 <p class="wp-caption-text">The blue circles represent reprintings of the story; the yellow triangles represent paratexts. Larger icons mark places with multiple reprints or paratexts.</p>
 

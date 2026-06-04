@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  Granny&#8217;s Eulogy
-date:   2011-02-19
-description: 
-tags: 
-categories: 
+title: Granny&#8217;s Eulogy
+date: 2011-02-19
+description:
+tags:
+categories:
 permalink: /personal/grannys-eulogy/
 ---
-
 
 <p>I don't actually use this site as a blog very often, but I felt compelled to share my sentiments from my Granny's memorial service today. Though I'm sad that she's gone, it was great to spend the day remembering her with my family.</p><!--more-->
 <br />
