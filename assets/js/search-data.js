@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-anemoia-ai-and-skeuomorphism-the-material-turn-in-digital-humanities",
+        },{id: "post-a-skeuomorphic-view-of-book-history",
+        
+          title: "A Skeuomorphic View of Book History",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/research/skeuomorphic";
+          
+        },
+      },{id: "post-anemoia-ai-and-skeuomorphism-the-material-turn-in-digital-humanities",
         
           title: "Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities",
         

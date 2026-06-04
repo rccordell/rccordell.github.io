@@ -7,20 +7,20 @@ library(wordcloud)
 
 raven &lt;- tibble(text=read_file("http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.txt")) # a tibble is special kind of dataframe we'll learn more about in week 3
 
-raven %&gt;% 
+raven %&gt;%
   unnest_tokens(word,text) %&gt;%
   count(word,sort=T)
 
-raven %&gt;% 
+raven %&gt;%
   unnest_tokens(word,text) %&gt;%
-  count(word,sort=T) %&gt;% 
+  count(word,sort=T) %&gt;%
   with(wordcloud(word,n,max.words = 100))
 
 data("stop_words") # &lt;- Load the stop words data
 
-raven %&gt;% 
+raven %&gt;%
   unnest_tokens(word,text) %&gt;%
-  count(word,sort=T) %&gt;% 
+  count(word,sort=T) %&gt;%
   anti_join(stop_words) %&gt;% #&lt;- This is the only change to our little program from before.
   with(wordcloud(word,n))
 
@@ -30,11 +30,11 @@ raven %&gt;%
 
 raven %&gt;%
   unnest_tokens(word,text,token="ngrams",n=3) %&gt;%
-  group_by(word) %&gt;% 
+  group_by(word) %&gt;%
   filter(n()&gt;3) %&gt;%
-  ggplot() + 
-  geom_bar(fill="red") + 
-  aes(x=word) + 
+  ggplot() +
+  geom_bar(fill="red") +
+  aes(x=word) +
   coord_flip()
 
 ravenGrams &lt;- as_data_frame(raven %&gt;%
@@ -49,22 +49,22 @@ newspaperPages &lt;- data_frame(
   text = c(text=read_file("http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.txt"),text=read_file("http://chroniclingamerica.loc.gov/lccn/sn98060050/1845-02-28/ed-1/seq-1/ocr.txt")),
   title = c("LewisburgChronicle","VermontPhoenix"))
 
-newspaperPages %&gt;% 
+newspaperPages %&gt;%
   unnest_tokens(word,text,token = "ngrams", n = 5) %&gt;% # &lt;- New
-  group_by(title, word) %&gt;% 
+  group_by(title, word) %&gt;%
   summarize(count = n()) %&gt;%
   arrange(desc(count)) %&gt;%
   View()
 
 newspaperPages %&gt;%
   unnest_tokens(word,text,token = "ngrams", n=5) %&gt;%
-  group_by(title,word) %&gt;% 
-  summarize(count=n()) %&gt;% 
-  spread(title,count,fill=0) %&gt;% 
-  # filter(LewisburgChronicle + VermontPhoenix &gt; 2) %&gt;% 
+  group_by(title,word) %&gt;%
+  summarize(count=n()) %&gt;%
+  spread(title,count,fill=0) %&gt;%
+  # filter(LewisburgChronicle + VermontPhoenix &gt; 2) %&gt;%
   ggplot() +
-  aes(x=LewisburgChronicle,y=VermontPhoenix,label=word) + 
-  geom_point(alpha=.3) + 
+  aes(x=LewisburgChronicle,y=VermontPhoenix,label=word) +
+  geom_point(alpha=.3) +
   geom_text(check_overlap = TRUE) +
 #  scale_x_log10() +
 #  scale_y_log10() +
@@ -73,8 +73,8 @@ newspaperPages %&gt;%
 
 newspaperPages %&gt;%
   unnest_tokens(word,text,token = "ngrams", n=5) %&gt;%
-  group_by(title,word) %&gt;% 
-  summarize(count=n()) %&gt;% 
+  group_by(title,word) %&gt;%
+  summarize(count=n()) %&gt;%
   spread(title,count,fill=0) %&gt;%
   # filter(LewisburgChronicle &gt;= 1 &amp; VermontPhoenix &gt;= 1) %&gt;%
   View()
@@ -82,8 +82,8 @@ newspaperPages %&gt;%
 
 sharedFiveGrams &lt;- newspaperPages %&gt;%
   unnest_tokens(word,text,token = "ngrams", n=5) %&gt;%
-  group_by(title,word) %&gt;% 
-  summarize(count=n()) %&gt;% 
+  group_by(title,word) %&gt;%
+  summarize(count=n()) %&gt;%
   spread(title,count,fill=0) %&gt;%
   filter(LewisburgChronicle &gt;= 1 &amp; VermontPhoenix &gt;= 1) %&gt;%
   rename(fivegram = word) %&gt;%
