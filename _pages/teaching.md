@@ -13,8 +13,9 @@ I teach both graduate and undergraduate courses in the School of Information Sci
 
 ### University of Illinois Urbana-Champaign
 
+- Reading Machines: [Fall 2026](https://f26rm.ryancordell.org)
 - Book Lab—Print to Programming: [Spring 2026](https://s26bl.ryancordell.org/), [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
-- Introduction to Digital Humanities: Fall 2025, [Fall 2024](https://f24idh.ryancordell.org)
+- Introduction to Digital Humanities: Fall 2026, Fall 2025, [Fall 2024](https://f24idh.ryancordell.org)
 
 ### Northeastern University
 
